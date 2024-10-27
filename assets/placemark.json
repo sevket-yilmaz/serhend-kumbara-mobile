@@ -1,0 +1,5519 @@
+[
+    {
+        "placemarkID": 1,
+        "name": "AYKUT BÜFE",
+        "latitude": 40.3154894865657,
+        "longitude": 36.548915357475,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364771",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 2,
+        "name": "ÇAĞLAYAN BAKKAL",
+        "latitude": 40.3040829551732,
+        "longitude": 36.5568436482224,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364906",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 3,
+        "name": "KAHRAMAN DONDURMA",
+        "latitude": 40.3077482852076,
+        "longitude": 36.5575787049528,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364906",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 4,
+        "name": "OKANLAR SİMİT",
+        "latitude": 40.3375565786911,
+        "longitude": 36.5519503249522,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364907",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 5,
+        "name": "ÖZTÜRK MARKET",
+        "latitude": 40.3339665939881,
+        "longitude": 36.553547548421,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364907",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 6,
+        "name": "DOĞUŞ MATBAA",
+        "latitude": 40.3160194022659,
+        "longitude": 36.552392364399,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364908",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 7,
+        "name": "KEVSER BAKKAL",
+        "latitude": 40.3106910800244,
+        "longitude": 36.557246399619,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364908",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 8,
+        "name": "PLT BÜFE",
+        "latitude": 40.3181066396154,
+        "longitude": 36.3811606114033,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364908",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 9,
+        "name": "BAHÇE KAFE",
+        "latitude": 40.3312131621004,
+        "longitude": 36.4710229687688,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364908",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 10,
+        "name": "AKÇA İŞİTME CİHAZLARI",
+        "latitude": 40.3233412986438,
+        "longitude": 36.5501785817931,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364908",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 11,
+        "name": "KARDEŞLER MARKET",
+        "latitude": 40.3251029236228,
+        "longitude": 36.5571583518048,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364909",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 12,
+        "name": "YAKUP ELEKTİRİK",
+        "latitude": 40.3153290968636,
+        "longitude": 36.5498674404033,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364909",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 13,
+        "name": "ÇUBUKLU AVM",
+        "latitude": 40.3161289790247,
+        "longitude": 36.5529902322031,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364909",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 14,
+        "name": "KÜÇÜK ÇİFTLİK",
+        "latitude": 40.3229882236689,
+        "longitude": 36.5545969840456,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364909",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 15,
+        "name": "ELİT KIRTASİYE",
+        "latitude": 40.3221025405896,
+        "longitude": 36.554646523056,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364909",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 16,
+        "name": "RÜZGAR BÜFE",
+        "latitude": 40.3159557527253,
+        "longitude": 36.5530035062074,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36491",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 17,
+        "name": "PASTAPARE",
+        "latitude": 40.3398542234064,
+        "longitude": 36.5398992097406,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36491",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 18,
+        "name": "STAR TEKSTİL",
+        "latitude": 40.314743626778,
+        "longitude": 36.5529485816094,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36491",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 19,
+        "name": "ÇEVİRGEN İLETİŞİM",
+        "latitude": 40.313202573041,
+        "longitude": 36.5513559140557,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36491",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 20,
+        "name": "CANSU KASAP",
+        "latitude": 40.3176644403363,
+        "longitude": 36.555065429212,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36491",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 21,
+        "name": "ATLAS HARİTA PROJE",
+        "latitude": 40.3151631655544,
+        "longitude": 36.5513221577056,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36491",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 22,
+        "name": "İDEAL TEKSTİL",
+        "latitude": 40.3169817482013,
+        "longitude": 36.5509733647571,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364911",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 23,
+        "name": "YEMEK DÜNYASI",
+        "latitude": 40.3132300482598,
+        "longitude": 36.5507825617598,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364911",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 24,
+        "name": "NEFES ECZANESİ",
+        "latitude": 40.2959115058603,
+        "longitude": 36.5558526873097,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364911",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 25,
+        "name": "ADIGÜZEL MARKET TAŞKÖPRÜ",
+        "latitude": 40.3313220237894,
+        "longitude": 36.5564854087751,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364911",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 26,
+        "name": "TOKAT YILDIZI",
+        "latitude": 40.3283463376638,
+        "longitude": 36.559208979812,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364913",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 27,
+        "name": "METRO TRUZİM",
+        "latitude": 40.3283403183896,
+        "longitude": 36.5593541575636,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364913",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 28,
+        "name": "KURTOĞLU KARDEŞLER SİMİT VE YAĞLI",
+        "latitude": 40.3235474188949,
+        "longitude": 36.5550024335582,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364914",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 29,
+        "name": "DEMTAŞ MARKET",
+        "latitude": 40.3333159197539,
+        "longitude": 36.5568070756325,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364914",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 30,
+        "name": "ÖZ TURHAL UNLU MAMÜLLERİ",
+        "latitude": 40.3337370897709,
+        "longitude": 36.5568496939255,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364915",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 31,
+        "name": "ORKİDE MARKET",
+        "latitude": 40.3286604718853,
+        "longitude": 36.5263169573897,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364916",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 32,
+        "name": "TÜTÜNCÜ",
+        "latitude": 40.32855904926,
+        "longitude": 36.5263891236751,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364916",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 33,
+        "name": "BERTUĞ MEDİKAL GİYİM",
+        "latitude": 40.3209313148459,
+        "longitude": 36.5512509542156,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364916",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 34,
+        "name": "VİOLET KOZMETİK",
+        "latitude": 40.3209277962736,
+        "longitude": 36.5509898997096,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364916",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 35,
+        "name": "ASPAVA",
+        "latitude": 40.3203253352656,
+        "longitude": 36.5506266016832,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364917",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 36,
+        "name": "BİRADER ÇAY EVİ TOKAT",
+        "latitude": 40.3179074425882,
+        "longitude": 36.5545159494166,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364917",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 37,
+        "name": "ABONE ERKEK KUAFÖR",
+        "latitude": 40.3180509227205,
+        "longitude": 36.5517328910445,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364917",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 38,
+        "name": "SOSYETE PAZARI",
+        "latitude": 40.3169189310436,
+        "longitude": 36.5512356155644,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364917",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 39,
+        "name": "YÜCE TİCARET",
+        "latitude": 40.3162302486216,
+        "longitude": 36.553036595321,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364918",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 40,
+        "name": "NADİR UNLU MAMÜLLERİ",
+        "latitude": 40.3081439456987,
+        "longitude": 36.553381004636,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364918",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 41,
+        "name": "ÖRSGE YAPI MARKET",
+        "latitude": 40.3157691453521,
+        "longitude": 36.5535951185884,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364918",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 42,
+        "name": "KARDEŞLER PİDE SALONU",
+        "latitude": 40.3181651100995,
+        "longitude": 36.5556053488242,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364918",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 43,
+        "name": "NİĞDELİLER ZİYA METAL",
+        "latitude": 40.3324198901169,
+        "longitude": 36.5418300488899,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364918",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 44,
+        "name": "AKARGAZ",
+        "latitude": 40.3174836887473,
+        "longitude": 36.5560705422717,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364918",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 45,
+        "name": "SEÇ MARKET",
+        "latitude": 40.3177004638797,
+        "longitude": 36.5549527818622,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364918",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 46,
+        "name": "KARADENİZ YUFKA",
+        "latitude": 40.3177065061258,
+        "longitude": 36.5545242446309,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364919",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 47,
+        "name": "TABU REKLAM",
+        "latitude": 40.3191572666359,
+        "longitude": 36.5505677150843,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364919",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 48,
+        "name": "DİŞ HEKİMİ LEYLA KALEM",
+        "latitude": 40.3376420424411,
+        "longitude": 36.5474295889939,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364919",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 49,
+        "name": "KÖŞEM SİMİT",
+        "latitude": 40.2974011469506,
+        "longitude": 36.5537098921115,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364919",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 50,
+        "name": "ANKARA SİMİT",
+        "latitude": 40.3379219044474,
+        "longitude": 36.546479057752,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364919",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 51,
+        "name": "YAĞMUR PERDE",
+        "latitude": 40.3191427166893,
+        "longitude": 36.5504308814425,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364919",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 52,
+        "name": "PARTY SÜS EVİ",
+        "latitude": 40.3153470239119,
+        "longitude": 36.5508941363827,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36492",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 53,
+        "name": "ZARAFET DÖNER PİDE SALONU",
+        "latitude": 40.3399239058295,
+        "longitude": 36.5396229435698,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36492",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 54,
+        "name": "BOZABA",
+        "latitude": 40.3125135056443,
+        "longitude": 36.5516049372376,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36492",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 55,
+        "name": "BURHAN ECZANESİ",
+        "latitude": 40.315390754534,
+        "longitude": 36.5531502020693,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36492",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 56,
+        "name": "4A MÜHENDİSLİK",
+        "latitude": 40.3331582543735,
+        "longitude": 36.5382085014066,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36492",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 57,
+        "name": "MURAT TİCARET",
+        "latitude": 40.3333075608887,
+        "longitude": 36.5386008534611,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36492",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 58,
+        "name": "TÜRKİYELİ",
+        "latitude": 40.3305974674303,
+        "longitude": 36.5391771206417,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36492",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 59,
+        "name": "90+ PLAYSTATİON",
+        "latitude": 40.3222060742883,
+        "longitude": 36.5551451605226,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364921",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 60,
+        "name": "SULTAN BÜFE",
+        "latitude": 40.3313614310381,
+        "longitude": 36.5430793252105,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364921",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 61,
+        "name": "FARUK BAKLİYAT",
+        "latitude": 40.3149633841108,
+        "longitude": 36.5531412113123,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364921",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 62,
+        "name": "SILA MÜHENDİSLİK",
+        "latitude": 40.3051593183402,
+        "longitude": 36.5549621682634,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364921",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 63,
+        "name": "BOZABA İMALAT",
+        "latitude": 40.2946063439404,
+        "longitude": 36.5509070844033,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364921",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 64,
+        "name": "SİMİT DURAĞI",
+        "latitude": 40.3039298689258,
+        "longitude": 36.554237461786,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364921",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 65,
+        "name": "FEVZİ ALİ BÜFE",
+        "latitude": 40.3411775549861,
+        "longitude": 36.5362246129293,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364922",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 66,
+        "name": "FARUK MOBİLYA",
+        "latitude": 40.3385962177796,
+        "longitude": 36.5394914815941,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364938",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 67,
+        "name": "BENGİRAY ÖZ DİNÇ MARKET",
+        "latitude": 40.3372024758871,
+        "longitude": 36.5376529815652,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364939",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 68,
+        "name": "Z KIRTASİYE",
+        "latitude": 40.3396621817464,
+        "longitude": 36.5406244107719,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364939",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 69,
+        "name": "ALTIN SATIR KASAP",
+        "latitude": 40.3395376409503,
+        "longitude": 36.5412644837667,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364939",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 70,
+        "name": "SERİNCE ÇİĞKÖFTE",
+        "latitude": 40.338627598205,
+        "longitude": 36.5437295782047,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36494",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 71,
+        "name": "ATEŞ DÖNER",
+        "latitude": 40.3366434139848,
+        "longitude": 36.549310719255,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36494",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 72,
+        "name": "GROSTAN MARKET (6KASA)",
+        "latitude": 40.332666048913,
+        "longitude": 36.5375471771161,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36494",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 73,
+        "name": "ÖZHAT DÖNER",
+        "latitude": 40.3338479170982,
+        "longitude": 36.5522893295788,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36494",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 74,
+        "name": "AKADEMİ ECZANESİ",
+        "latitude": 40.3338112004944,
+        "longitude": 36.5523030822577,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36494",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 75,
+        "name": "SERİNCE ÇİĞKÖFTE",
+        "latitude": 40.3340267586817,
+        "longitude": 36.5524281962216,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36494",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 76,
+        "name": "ÖZ TADIM DONDURMA",
+        "latitude": 40.3340708852063,
+        "longitude": 36.5524823627502,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364941",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 77,
+        "name": "MODA PERİA",
+        "latitude": 40.3324780005318,
+        "longitude": 36.5566969749431,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364941",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 78,
+        "name": "TABACCO",
+        "latitude": 40.3344958990766,
+        "longitude": 36.5565594572428,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364941",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 79,
+        "name": "YÜKSELEN TASARIM ASANSÖR",
+        "latitude": 40.3350168742168,
+        "longitude": 36.5564971976739,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364941",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 80,
+        "name": "OKUMUŞ EMLAK",
+        "latitude": 40.3382820125235,
+        "longitude": 36.5544245882317,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364941",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 81,
+        "name": "SEÇ MARKET",
+        "latitude": 40.3433846682473,
+        "longitude": 36.5497723405973,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364941",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 82,
+        "name": "GÖRMEZ MARKET",
+        "latitude": 40.3472235830567,
+        "longitude": 36.5466847450541,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364941",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 83,
+        "name": "MİNİHAL",
+        "latitude": 40.3465436028995,
+        "longitude": 36.5432433510664,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364942",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 84,
+        "name": "AKYÜZ BÜFE",
+        "latitude": 40.3418444871959,
+        "longitude": 36.5490420524456,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364942",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 85,
+        "name": "KEŞKEKLER PETROL",
+        "latitude": 40.3330245962723,
+        "longitude": 36.5351550730013,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364942",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 86,
+        "name": "TOTAL PETROL",
+        "latitude": 40.3328697254238,
+        "longitude": 36.534440110193,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364942",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 87,
+        "name": "AKDAĞ BORA PETROL (AYTEMİZ)",
+        "latitude": 40.3330951708722,
+        "longitude": 36.5304020915383,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364942",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 88,
+        "name": "BEDESTENLİOĞLU YENİ ÇARŞI PİDE FIRINI",
+        "latitude": 40.3271471743406,
+        "longitude": 36.525906691305,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364942",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 89,
+        "name": "SARI  GİYİMTUHAFİYE",
+        "latitude": 40.3280239248297,
+        "longitude": 36.5265507412302,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364942",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 90,
+        "name": "YORULMAZ BÜFE",
+        "latitude": 40.3284939909487,
+        "longitude": 36.5191323257453,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364943",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 91,
+        "name": "YUNUS EMRE BÜFE",
+        "latitude": 40.3280831052784,
+        "longitude": 36.5192150723254,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364943",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 92,
+        "name": "OPET AĞAOĞLU PETROL",
+        "latitude": 40.3349877948033,
+        "longitude": 36.5478012719594,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364943",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 93,
+        "name": "HAYDAR ALPAT",
+        "latitude": 40.3148937828436,
+        "longitude": 36.5533991932451,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364943",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 94,
+        "name": "YILDIZ ERKEK KUAFÖR",
+        "latitude": 40.3050902494603,
+        "longitude": 36.553539295801,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364943",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 95,
+        "name": "BERK İLETİŞİM",
+        "latitude": 40.3086502151727,
+        "longitude": 36.5532144911502,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364943",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 96,
+        "name": "EDANUR GİYİM",
+        "latitude": 40.3088854561022,
+        "longitude": 36.553128719344,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364943",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 97,
+        "name": "AKINCI SİMİTÇİ",
+        "latitude": 40.3088545769861,
+        "longitude": 36.5543958016471,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364944",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 98,
+        "name": "UĞUR GİYİM",
+        "latitude": 40.3087464545779,
+        "longitude": 36.5533965208846,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364944",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 99,
+        "name": "ÇAĞRI ECZANESİ",
+        "latitude": 40.3122963050535,
+        "longitude": 36.5525977228985,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364944",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 100,
+        "name": "KOMŞUNUN UNLU MAMÜLLERİ",
+        "latitude": 40.3089374466166,
+        "longitude": 36.5530854591368,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364944",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 101,
+        "name": "MADIMAKÇI",
+        "latitude": 40.3079951045512,
+        "longitude": 36.5537290023585,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364944",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 102,
+        "name": "ÇAYOCAĞI",
+        "latitude": 40.3092080534252,
+        "longitude": 36.553370729811,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364944",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 103,
+        "name": "NURİ BAYRAM KURU TEMİZLEME",
+        "latitude": 40.311148628303,
+        "longitude": 36.552482270928,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364945",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 104,
+        "name": "KONAK KAFE",
+        "latitude": 40.3120517373261,
+        "longitude": 36.5521353230177,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364945",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 105,
+        "name": "YAPAR HARİTA",
+        "latitude": 40.3121199512276,
+        "longitude": 36.5517093633992,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364945",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 106,
+        "name": "ÖLÇEK HARİTA",
+        "latitude": 40.3120034149777,
+        "longitude": 36.5514221789301,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364945",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 107,
+        "name": "DOĞAN ÇAY EVİ",
+        "latitude": 40.3130691525223,
+        "longitude": 36.5502873840879,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364945",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 108,
+        "name": "USLU JEOLOJİ",
+        "latitude": 40.313176051306,
+        "longitude": 36.5493181354948,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364945",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 109,
+        "name": "İMAR VE ŞEHİRCİLİK MÜDÜRLÜĞÜ",
+        "latitude": 40.3132436908243,
+        "longitude": 36.5494923038848,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364945",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 110,
+        "name": "TATLI İLETİŞİM",
+        "latitude": 40.3147448993703,
+        "longitude": 36.5510344226749,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364946",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 111,
+        "name": "BAKIRCI İLETİŞİM",
+        "latitude": 40.3151520378018,
+        "longitude": 36.55074457065,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364946",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 112,
+        "name": "İDEAL EMLAK",
+        "latitude": 40.3152781167551,
+        "longitude": 36.5508781021826,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364946",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 113,
+        "name": "FATİH KUYUMCULUK",
+        "latitude": 40.3154404713486,
+        "longitude": 36.5510155235672,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364946",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 114,
+        "name": "KAYA KUYUMCU",
+        "latitude": 40.315616143359,
+        "longitude": 36.5510163450841,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364946",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 115,
+        "name": "ÇARŞI DÖNER KÖFTE",
+        "latitude": 40.315810361398,
+        "longitude": 36.5513811038601,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364946",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 116,
+        "name": "DOĞUŞ KAĞI AMBALAJ",
+        "latitude": 40.322264861792,
+        "longitude": 36.5546582726125,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364946",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 117,
+        "name": "İTİMAT KUYUMCULU",
+        "latitude": 40.3159013478518,
+        "longitude": 36.5512824057879,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364947",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 118,
+        "name": "SALİH KESİCİ TEKSTİL",
+        "latitude": 40.3163711787863,
+        "longitude": 36.552278516328,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364947",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 119,
+        "name": "ÖNLÜ ÇAYEVİ",
+        "latitude": 40.3163682056566,
+        "longitude": 36.5524133726451,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364947",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 120,
+        "name": "ROYALGÜMÜŞ OTEL",
+        "latitude": 40.317154998674,
+        "longitude": 36.5522449091711,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364947",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 121,
+        "name": "AYAKKABICI",
+        "latitude": 40.3171114670726,
+        "longitude": 36.5522322019704,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364947",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 122,
+        "name": "FOTO AKIN",
+        "latitude": 40.3172865742201,
+        "longitude": 36.5522601704147,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364947",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 123,
+        "name": "FISTIKOĞLU TATLICISI",
+        "latitude": 40.3174036726063,
+        "longitude": 36.5522575815282,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364948",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 124,
+        "name": "ÇINARAY KASAP",
+        "latitude": 40.3176599605668,
+        "longitude": 36.5519944330097,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364948",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 125,
+        "name": "EFTAL TAHTA BASKI",
+        "latitude": 40.3175278899975,
+        "longitude": 36.5518435627963,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364948",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 126,
+        "name": "ŞARK KADAYIF",
+        "latitude": 40.3193895366169,
+        "longitude": 36.551819195908,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364948",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 127,
+        "name": "MESUT TRAFİK",
+        "latitude": 40.3200715387888,
+        "longitude": 36.5515276284283,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364948",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 128,
+        "name": "PAPATYA İÇ GİYİM",
+        "latitude": 40.3209844273735,
+        "longitude": 36.5517820022156,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364948",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 129,
+        "name": "SEÇKİN PERDE",
+        "latitude": 40.320898251563,
+        "longitude": 36.5517959282594,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364948",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 130,
+        "name": "ERTEC İLETİŞİM",
+        "latitude": 40.3203831513517,
+        "longitude": 36.5518554357203,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364949",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 131,
+        "name": "YEMİŞKEN KURUYEMİŞ",
+        "latitude": 40.3187685008341,
+        "longitude": 36.5521712298119,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364949",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 132,
+        "name": "KAFKAS FIRIN",
+        "latitude": 40.3185230022276,
+        "longitude": 36.5527327968638,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364949",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 133,
+        "name": "ÖZKAN AYAKKABI",
+        "latitude": 40.3172870133371,
+        "longitude": 36.5525692983477,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364949",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 134,
+        "name": "YILMAZ TÜL PERDE",
+        "latitude": 40.3172049676605,
+        "longitude": 36.5526461921477,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36495",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 135,
+        "name": "FATİH GİYİM",
+        "latitude": 40.3162477399867,
+        "longitude": 36.5529373468382,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36495",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 136,
+        "name": "ALTINBAŞAK TAŞ FIRIN ODUN EKMEĞİ",
+        "latitude": 40.338157274401,
+        "longitude": 36.5486479187165,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36495",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 137,
+        "name": "HAZAL OPTİK",
+        "latitude": 40.3233221986768,
+        "longitude": 36.5569941149129,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36495",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 138,
+        "name": "TADIM BAKLİYAT KURUYEMİŞ",
+        "latitude": 40.3177066259052,
+        "longitude": 36.5544304306031,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36495",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 139,
+        "name": "OSMANLI UCUZLUK",
+        "latitude": 40.3153780184275,
+        "longitude": 36.5508079277314,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36495",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 140,
+        "name": "CANSU MARKET",
+        "latitude": 40.3165040671524,
+        "longitude": 36.5416034169552,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36495",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 141,
+        "name": "FISTIKOĞLU BAKLAVA",
+        "latitude": 40.3473911871006,
+        "longitude": 36.5474926622562,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364962",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 142,
+        "name": "OKTAY KASAP",
+        "latitude": 40.3350379122326,
+        "longitude": 36.5515564144608,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364963",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 143,
+        "name": "DEPO AVM",
+        "latitude": 40.3131992989272,
+        "longitude": 36.5507030406966,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364963",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 144,
+        "name": "ARMAĞAN TEKSTİL",
+        "latitude": 40.3146869248167,
+        "longitude": 36.5529359195109,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364963",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 145,
+        "name": "FOTO EMRE",
+        "latitude": 40.3142705080808,
+        "longitude": 36.5532685811074,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364963",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 146,
+        "name": "ÖZEN YUFKA",
+        "latitude": 40.3134427807757,
+        "longitude": 36.5529307549083,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364964",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 147,
+        "name": "ŞEN KARDEŞLER MANAV",
+        "latitude": 40.3134586405252,
+        "longitude": 36.5530462196259,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364964",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 148,
+        "name": "İSOTOĞLU YAPI",
+        "latitude": 40.31269409819,
+        "longitude": 36.5536465182088,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364964",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 149,
+        "name": "SEVİLAY ECZANE",
+        "latitude": 40.304008783286,
+        "longitude": 36.5537746664574,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364965",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 150,
+        "name": "EFE UNLU MAMÜLLERİ",
+        "latitude": 40.3134424540697,
+        "longitude": 36.5524781795654,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364965",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 151,
+        "name": "SANSAROĞLU MARKET",
+        "latitude": 40.3042227574468,
+        "longitude": 36.5546487650145,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364965",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 152,
+        "name": "AĞAOĞLU ELEKTRONİK",
+        "latitude": 40.3124023269744,
+        "longitude": 36.5531208426438,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364965",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 153,
+        "name": "AKINCI  ELEKTRONİK",
+        "latitude": 40.3124633809988,
+        "longitude": 36.5531087172147,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364965",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 154,
+        "name": "MENESSA BEBE",
+        "latitude": 40.3121779879738,
+        "longitude": 36.5527700685614,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364966",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 155,
+        "name": "OSMANLI DÖNER",
+        "latitude": 40.3123007012109,
+        "longitude": 36.5524603968358,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364966",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 156,
+        "name": "DEMLİKÇİ METİN",
+        "latitude": 40.3123100899407,
+        "longitude": 36.5523251623426,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364966",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 157,
+        "name": "GÖZDE GİYİM",
+        "latitude": 40.3112571912322,
+        "longitude": 36.5527142920639,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364966",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 158,
+        "name": "ASRİ MARKET",
+        "latitude": 40.3132913211422,
+        "longitude": 36.550920040712,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364966",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 159,
+        "name": "SÖNMEZ KONFEKSİYON",
+        "latitude": 40.3152557611541,
+        "longitude": 36.5502167770794,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364966",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 160,
+        "name": "CEYLAN DERİ",
+        "latitude": 40.3153241061555,
+        "longitude": 36.5496004681838,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364967",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 161,
+        "name": "GÖZDE ZÜCCARİYE",
+        "latitude": 40.3153581764932,
+        "longitude": 36.5491487868737,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364967",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 162,
+        "name": "ODUNCU",
+        "latitude": 40.3153735540375,
+        "longitude": 36.5490460501428,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364967",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 163,
+        "name": "ACAR ELEKTRONİK",
+        "latitude": 40.3155897865239,
+        "longitude": 36.5485151980029,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364967",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 164,
+        "name": "AYGÜNLER ÇAY EVİ",
+        "latitude": 40.3156238450215,
+        "longitude": 36.5483344229508,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364967",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 165,
+        "name": "KASAP NAZIM",
+        "latitude": 40.3155265507893,
+        "longitude": 36.5484538788354,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364967",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 166,
+        "name": "CANSU BAHARAT",
+        "latitude": 40.3156384062289,
+        "longitude": 36.5482176064135,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364968",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 167,
+        "name": "İKRA BÜFE",
+        "latitude": 40.315172887887,
+        "longitude": 36.550607055801,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364968",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 168,
+        "name": "ÇELİKHAN TÜTÜNCÜ",
+        "latitude": 40.3151783035363,
+        "longitude": 36.5506769794529,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364968",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 169,
+        "name": "HİSAR HARİTA",
+        "latitude": 40.313507853783,
+        "longitude": 36.5524032651034,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364968",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 170,
+        "name": "YÜCEL GİYİM",
+        "latitude": 40.3157739348066,
+        "longitude": 36.5531527021425,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364968",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 171,
+        "name": "TERZİ BAHADIR (PASAJ İÇİ)",
+        "latitude": 40.3145643304177,
+        "longitude": 36.5528828163474,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364968",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 172,
+        "name": "KARANFİL ECZANESİ",
+        "latitude": 40.3185925225369,
+        "longitude": 36.5537552973916,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364968",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 173,
+        "name": "EMİRHAN MATBAA",
+        "latitude": 40.3170664463961,
+        "longitude": 36.5547281885581,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364969",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 174,
+        "name": "HAMİT PLASTİK",
+        "latitude": 40.3169047191371,
+        "longitude": 36.5551892096523,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364969",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 175,
+        "name": "SÖNMEZ ECZANESİ",
+        "latitude": 40.3233249801193,
+        "longitude": 36.5537130090057,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364969",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 176,
+        "name": "GIT GIT DÜRÜM",
+        "latitude": 40.3341278308355,
+        "longitude": 36.5525049080825,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364969",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 177,
+        "name": "SEÇ MARKET",
+        "latitude": 40.3026720128871,
+        "longitude": 36.5583603298182,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364969",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 178,
+        "name": "AYDIN ALÇIPAN",
+        "latitude": 40.329744510669,
+        "longitude": 36.5426710153024,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364969",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 179,
+        "name": "ÇOŞKUN KARDEŞLER",
+        "latitude": 40.3323929491805,
+        "longitude": 36.5389077173442,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364969",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 180,
+        "name": "AKSOY METAL",
+        "latitude": 40.3303377020201,
+        "longitude": 36.5409167780641,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36497",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 181,
+        "name": "ESİLA KURUYEMİŞ",
+        "latitude": 40.3109021713985,
+        "longitude": 36.5523257290679,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36497",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 182,
+        "name": "ACAR PETROL",
+        "latitude": 40.251349092026,
+        "longitude": 36.5456324414196,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36497",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 183,
+        "name": "ACAR PETROL ÇAMLIBEL",
+        "latitude": 40.0944735435235,
+        "longitude": 36.4716767047343,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36497",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 184,
+        "name": "UĞUR PLASTİK",
+        "latitude": 40.3357881854243,
+        "longitude": 36.5541529112153,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36497",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 185,
+        "name": "GENÇ TEKNİK YETKİLİ SERVİS",
+        "latitude": 40.3328088720999,
+        "longitude": 36.5567634379518,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36497",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 186,
+        "name": "KARDELEN DÜRÜM EVİ",
+        "latitude": 40.333522610004,
+        "longitude": 36.5568653461218,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364971",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 187,
+        "name": "UTKU KAĞIT AMBALAJ",
+        "latitude": 40.3178109993542,
+        "longitude": 36.552508723042,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364971",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 188,
+        "name": "HAMİDO BAKLAVA",
+        "latitude": 40.3260566801706,
+        "longitude": 36.5537696162955,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364971",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 189,
+        "name": "IŞIL GİYİM",
+        "latitude": 40.3261604430111,
+        "longitude": 36.5538441484744,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364971",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 190,
+        "name": "BY PİPO",
+        "latitude": 40.3317560965657,
+        "longitude": 36.5540273338551,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364971",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 191,
+        "name": "TOROS DONDURMA",
+        "latitude": 40.3324896236126,
+        "longitude": 36.5532305346929,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364971",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 192,
+        "name": "ERGÜN ÇAYEVİ",
+        "latitude": 40.3200414228764,
+        "longitude": 36.5516300741565,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364971",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 193,
+        "name": "NEŞE MARKET",
+        "latitude": 40.2965127418455,
+        "longitude": 36.5545027611849,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364972",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 194,
+        "name": "YAREN BÜFE",
+        "latitude": 40.3022787399404,
+        "longitude": 36.5580093559399,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364972",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 195,
+        "name": "DİLRUBA MODA",
+        "latitude": 40.3134733020734,
+        "longitude": 36.554358676457,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364972",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 196,
+        "name": "AKSA DOĞALGAZ",
+        "latitude": 40.3278602185878,
+        "longitude": 36.5584825469888,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364972",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 197,
+        "name": "EMANETÇİ",
+        "latitude": 40.328277117867,
+        "longitude": 36.5591796407054,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364972",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 198,
+        "name": "LOKANTA",
+        "latitude": 40.3282804373412,
+        "longitude": 36.5593013277364,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364972",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 199,
+        "name": "ÇAY OCAĞI",
+        "latitude": 40.3282835527753,
+        "longitude": 36.5594431876366,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364973",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 200,
+        "name": "BERAT ÇİÇEKCİLİK",
+        "latitude": 40.3347367200786,
+        "longitude": 36.5528621691177,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364973",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 201,
+        "name": "KARŞIYAKA ET",
+        "latitude": 40.3334295086388,
+        "longitude": 36.5569667762871,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364973",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 202,
+        "name": "GÜNEY PERDE",
+        "latitude": 40.3345675265666,
+        "longitude": 36.5526528241168,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364973",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 203,
+        "name": "KOBRA AVM",
+        "latitude": 40.3349148324665,
+        "longitude": 36.5516453316552,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364973",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 204,
+        "name": "BAKKAL",
+        "latitude": 40.335102649595,
+        "longitude": 36.5514688944803,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364973",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 205,
+        "name": "ÇİĞKÖFTEM",
+        "latitude": 40.3355014473823,
+        "longitude": 36.5508822870283,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364974",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 206,
+        "name": "PİDE HOME",
+        "latitude": 40.3352140832839,
+        "longitude": 36.5513143906323,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364974",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 207,
+        "name": "YÜCEL FIRIN 600 EVLER",
+        "latitude": 40.3432533458421,
+        "longitude": 36.5404252009884,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364974",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 208,
+        "name": "ERENLER 600 EVLER 3 ADET",
+        "latitude": 40.3403255006298,
+        "longitude": 36.5403158836307,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364974",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 209,
+        "name": "KASAP NECİP",
+        "latitude": 40.3133938276061,
+        "longitude": 36.5530007228493,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364974",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 210,
+        "name": "AKBAŞ MOBİLYA",
+        "latitude": 40.3319089357458,
+        "longitude": 36.5423732564974,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364974",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 211,
+        "name": "AKTAŞLAR PİDE",
+        "latitude": 40.3326376911725,
+        "longitude": 36.5421898902706,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364974",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 212,
+        "name": "KESİK İZZET",
+        "latitude": 40.3327500217546,
+        "longitude": 36.542601293617,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364975",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 213,
+        "name": "HAYAL BÜFE",
+        "latitude": 40.3316194349984,
+        "longitude": 36.5429018952796,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364975",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 214,
+        "name": "ÖRÜKÇÜOĞLU",
+        "latitude": 40.3312138705879,
+        "longitude": 36.5430619362644,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364975",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 215,
+        "name": "ŞİMŞEK BAKIM ATÖLYESİ",
+        "latitude": 40.3307240278122,
+        "longitude": 36.5425665570082,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364975",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 216,
+        "name": "BİLGİSAYARLI ROT BALANS",
+        "latitude": 40.3303432168019,
+        "longitude": 36.5425791322313,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364975",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 217,
+        "name": "ENERGY AKÜ",
+        "latitude": 40.3302273599773,
+        "longitude": 36.5424744660947,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364975",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 218,
+        "name": "ÖZEN MUTFAK MOBİLYA",
+        "latitude": 40.3298761627666,
+        "longitude": 36.5428865222231,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364975",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 219,
+        "name": "BAŞÇI TİCARET",
+        "latitude": 40.3308082822443,
+        "longitude": 36.5439219166747,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364976",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 220,
+        "name": "SEÇ MARKET",
+        "latitude": 40.3427113775082,
+        "longitude": 36.5458540605485,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364976",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 221,
+        "name": "ÇÖKELİĞİNOĞLU",
+        "latitude": 40.337970228283,
+        "longitude": 36.5437935501431,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364976",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 222,
+        "name": "KAŞIKLA",
+        "latitude": 40.3388663348791,
+        "longitude": 36.5436386770425,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364976",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 223,
+        "name": "SÜT DÜNYASI",
+        "latitude": 40.3390766498805,
+        "longitude": 36.5430366378885,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364976",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 224,
+        "name": "EMİN AYDIN EMLAK",
+        "latitude": 40.3388903244613,
+        "longitude": 36.5429202874044,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364976",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 225,
+        "name": "AYYILDIZ BERBER",
+        "latitude": 40.3239569816088,
+        "longitude": 36.5508098467775,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364976",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 226,
+        "name": "KRİSTAL AMBALAJ",
+        "latitude": 40.320394647259,
+        "longitude": 36.5055490537442,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364977",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 227,
+        "name": "KARA FIRIN",
+        "latitude": 40.3344666592173,
+        "longitude": 36.5517980480098,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364977",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 228,
+        "name": "UTKU KAĞIT AMBALAJ",
+        "latitude": 40.3240317765418,
+        "longitude": 36.5519001495039,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364977",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 229,
+        "name": "KEYİF TABACCO",
+        "latitude": 40.3124038612848,
+        "longitude": 36.5522665087749,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364978",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 230,
+        "name": "KANLIKAVAK SİGORTA",
+        "latitude": 40.3152597627598,
+        "longitude": 36.5498146960136,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364978",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 231,
+        "name": "ALP KUYUMCU",
+        "latitude": 40.3161922193404,
+        "longitude": 36.5513555352751,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364978",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 232,
+        "name": "DÜĞÜN DERNEK",
+        "latitude": 40.3158068274441,
+        "longitude": 36.5512673832126,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364978",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 233,
+        "name": "ŞANVER MARKET",
+        "latitude": 40.3155456632943,
+        "longitude": 36.5486042777679,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364978",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 234,
+        "name": "GUSÜL OTO YIKAMA",
+        "latitude": 40.3149261628877,
+        "longitude": 36.5523392512431,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364978",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 235,
+        "name": "ÇAĞRI PERDE",
+        "latitude": 40.3153524601795,
+        "longitude": 36.5530435425353,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364978",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 236,
+        "name": "YUMAK YÜN",
+        "latitude": 40.3155151926016,
+        "longitude": 36.5530519142318,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364979",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 237,
+        "name": "ULAŞ SÜ",
+        "latitude": 40.3156478325242,
+        "longitude": 36.5530622352484,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364979",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 238,
+        "name": "TÜRKMEN TEKSTİL",
+        "latitude": 40.3157591362787,
+        "longitude": 36.5530683683416,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364979",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 239,
+        "name": "EDİZ KUAFÖR",
+        "latitude": 40.3157037309794,
+        "longitude": 36.5530588689679,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364979",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 240,
+        "name": "TUĞBA TERZİ",
+        "latitude": 40.3154940044293,
+        "longitude": 36.5531317965605,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364979",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 241,
+        "name": "ADIGÜZELLER MARKET",
+        "latitude": 40.3149364630399,
+        "longitude": 36.5536146369367,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364979",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 242,
+        "name": "ÜMİT PİDE SALONU",
+        "latitude": 40.3146513660977,
+        "longitude": 36.5530003561155,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364979",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 243,
+        "name": "USTA MAKİNE",
+        "latitude": 40.3147024334039,
+        "longitude": 36.5529945587909,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364987",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 244,
+        "name": "ULPA",
+        "latitude": 40.3150668769901,
+        "longitude": 36.5519064117946,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364988",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 245,
+        "name": "AKAR GÖRESEL ÜRÜNLER",
+        "latitude": 40.3143934335563,
+        "longitude": 36.5528892234612,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364988",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 246,
+        "name": "DİJİTÜRK",
+        "latitude": 40.3143654361432,
+        "longitude": 36.5529469568638,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364989",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 247,
+        "name": "HANIMELİ",
+        "latitude": 40.3146258793384,
+        "longitude": 36.5544133218884,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364989",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 248,
+        "name": "İPEK KIRAATHANESİ",
+        "latitude": 40.3138539948734,
+        "longitude": 36.552894525459,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364989",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 249,
+        "name": "BABADAĞ TABACCO",
+        "latitude": 40.3130252283098,
+        "longitude": 36.5526423858896,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364989",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 250,
+        "name": "MENDERES ŞARKÜTERİ",
+        "latitude": 40.3116950847057,
+        "longitude": 36.5538853065814,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364989",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 251,
+        "name": "FARUK ZÜCCARİYE",
+        "latitude": 40.3128482962676,
+        "longitude": 36.5530946426437,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364989",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 252,
+        "name": "ÇEVİRGEN PLUS",
+        "latitude": 40.3125736767888,
+        "longitude": 36.5518981646747,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364989",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 253,
+        "name": "SULTANOĞLU TATLICISI",
+        "latitude": 40.312907034541,
+        "longitude": 36.5517138653741,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36499",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 254,
+        "name": "DEĞİRMENCİOĞLU",
+        "latitude": 40.3173074451685,
+        "longitude": 36.5555094529282,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36499",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 255,
+        "name": "YILDIZ KÖFTE",
+        "latitude": 40.317214181757,
+        "longitude": 36.555520157986,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36499",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 256,
+        "name": "BAYMAK ISI",
+        "latitude": 40.3225688527701,
+        "longitude": 36.5528992053781,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36499",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 257,
+        "name": "İPEK YOLU ÇAYOCAĞI",
+        "latitude": 40.3228612214062,
+        "longitude": 36.5530083955014,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36499",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 258,
+        "name": "KUAFÖR NİHAT",
+        "latitude": 40.3230869925164,
+        "longitude": 36.5531768656309,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364991",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 259,
+        "name": "YAPRAK ÇİÇEK",
+        "latitude": 40.325130299549,
+        "longitude": 36.5532528974822,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364991",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 260,
+        "name": "BAKLAVACI",
+        "latitude": 40.3239404398408,
+        "longitude": 36.5522839676275,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364991",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 261,
+        "name": "USTAM DÖNER",
+        "latitude": 40.3237838126257,
+        "longitude": 36.5522488612143,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364991",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 262,
+        "name": "SERİNCE",
+        "latitude": 40.3236369152744,
+        "longitude": 36.5519934601177,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364991",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 263,
+        "name": "İŞLER",
+        "latitude": 40.3238767737489,
+        "longitude": 36.5511676866515,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364992",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 264,
+        "name": "UZMANLAR BEYAZ EŞYA",
+        "latitude": 40.3247310164799,
+        "longitude": 36.5519903744154,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364992",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 265,
+        "name": "MAVERA KIRTASİYE",
+        "latitude": 40.3235070209047,
+        "longitude": 36.5497833860861,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364992",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 266,
+        "name": "KENT KANTİN",
+        "latitude": 40.3247220426585,
+        "longitude": 36.5482627171631,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364992",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 267,
+        "name": "ŞAHİNLER NAKLİYAT",
+        "latitude": 40.3306130122793,
+        "longitude": 36.5491833569574,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364992",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 268,
+        "name": "GRAND TİZMO",
+        "latitude": 40.3294806579153,
+        "longitude": 36.5524905782456,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364993",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 269,
+        "name": "AYBEK OTO",
+        "latitude": 40.3335182030415,
+        "longitude": 36.5796344984703,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364993",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 270,
+        "name": "POLAT AUTO",
+        "latitude": 40.3335455969227,
+        "longitude": 36.5799109814223,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364993",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 271,
+        "name": "ROYAL TABACCO",
+        "latitude": 40.3180379904727,
+        "longitude": 36.5515521885164,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364993",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 272,
+        "name": "FATİH MARKET",
+        "latitude": 40.3238550354797,
+        "longitude": 36.5235150647416,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364993",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 273,
+        "name": "YAVUZLAR MARKET",
+        "latitude": 40.3245844657623,
+        "longitude": 36.5233718424753,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364993",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 274,
+        "name": "İMREN MARKET",
+        "latitude": 40.3338657828829,
+        "longitude": 36.5170894077478,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364993",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 275,
+        "name": "DEMİR MARKET",
+        "latitude": 40.3434720539555,
+        "longitude": 36.5447789292544,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364994",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 276,
+        "name": "LONCA MARKET",
+        "latitude": 40.3328295044979,
+        "longitude": 36.5373829041187,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364994",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 277,
+        "name": "AMBALAJ GROSS",
+        "latitude": 40.3300116475258,
+        "longitude": 36.5496915940534,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364994",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 278,
+        "name": "DOĞAN MARKET",
+        "latitude": 40.3365850518143,
+        "longitude": 36.5510764687022,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364994",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 279,
+        "name": "ERENLER 4 KUMBARA",
+        "latitude": 40.3380097216248,
+        "longitude": 36.5586016820546,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364994",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 280,
+        "name": "EMRE KIRTASİYE",
+        "latitude": 40.3393707348226,
+        "longitude": 36.5412518803381,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364994",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 281,
+        "name": "FEYYAZ SİGORTA",
+        "latitude": 40.3209907461135,
+        "longitude": 36.5504450197705,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364994",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 282,
+        "name": "KATRE",
+        "latitude": 40.314419942686,
+        "longitude": 36.5520481709671,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364995",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 283,
+        "name": "AYBEK KUAFÖR",
+        "latitude": 40.3170658099523,
+        "longitude": 36.5549757739607,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364995",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 284,
+        "name": "İDEALOUTLET",
+        "latitude": 40.3157872259611,
+        "longitude": 36.5511704649832,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364995",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 285,
+        "name": "AYKUTOĞLU TEKSTİL",
+        "latitude": 40.3167268832075,
+        "longitude": 36.5509681237348,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364995",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 286,
+        "name": "ŞEKER KUNDURA",
+        "latitude": 40.3169792354122,
+        "longitude": 36.5530785110155,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364995",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 287,
+        "name": "DOĞAN AYAKKABI",
+        "latitude": 40.3176283858198,
+        "longitude": 36.5529090051631,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364995",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 288,
+        "name": "TOHUMCU BAHATTİN GİDER BAHARAT",
+        "latitude": 40.3176888864693,
+        "longitude": 36.5527356129404,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364995",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 289,
+        "name": "VETERİNER YAMANOĞLU",
+        "latitude": 40.3157731602379,
+        "longitude": 36.5537568704335,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364996",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 290,
+        "name": "ERENLER OTOGAZ",
+        "latitude": 40.3332500363043,
+        "longitude": 36.5394798007536,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364996",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 291,
+        "name": "KARTAL TİCARET",
+        "latitude": 40.333464604768,
+        "longitude": 36.544036216731,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364996",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 292,
+        "name": "BAKKAL MUHTAR",
+        "latitude": 40.3108983450463,
+        "longitude": 36.5545182069941,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364996",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 293,
+        "name": "ÖZDEMİR MOBİLYA",
+        "latitude": 40.3160454824366,
+        "longitude": 36.5529655819972,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.364996",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 294,
+        "name": "GÖZDE ÇEYİZ",
+        "latitude": 40.3160080770418,
+        "longitude": 36.5529584510575,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365004",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 295,
+        "name": "DEMPA PAZARLAMA",
+        "latitude": 40.3162768216265,
+        "longitude": 36.5535526590635,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365005",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 296,
+        "name": "EFTAL TAHTA BAKI KAT 2",
+        "latitude": 40.3174219720255,
+        "longitude": 36.5515445603841,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365005",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 297,
+        "name": "ANTEPLİOĞLU BAKLAVA",
+        "latitude": 40.3168943045352,
+        "longitude": 36.5555840265209,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365005",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 298,
+        "name": "BOL KEPÇE",
+        "latitude": 40.3177072275004,
+        "longitude": 36.555598092045,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365005",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 299,
+        "name": "ÜNLÜ MANDIRA (ÇEKENLİ İÇERDE)",
+        "latitude": 40.3172395949495,
+        "longitude": 36.5557374569732,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365006",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 300,
+        "name": "MURAT KASAP (ÇEKENLİ İÇERDE)",
+        "latitude": 40.3171432825028,
+        "longitude": 36.5557558613061,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365006",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 301,
+        "name": "EV YEMEKLERİ",
+        "latitude": 40.3225144182102,
+        "longitude": 36.5522676743106,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365006",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 302,
+        "name": "VUSLAT PARTY SHOP",
+        "latitude": 40.3163502420243,
+        "longitude": 36.5550052292611,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365006",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 303,
+        "name": "ÖZCAN DUŞAKABİN",
+        "latitude": 40.3166765637725,
+        "longitude": 36.5551255870254,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365006",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 304,
+        "name": "BAKLİYATÇI MEYDAN",
+        "latitude": 40.3179393549825,
+        "longitude": 36.5530086663329,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365006",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 305,
+        "name": "YAKAMOZ PLAYSTATİON",
+        "latitude": 40.3201261838162,
+        "longitude": 36.5510725029958,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365006",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 306,
+        "name": "BUHARA ÇAY EVİ",
+        "latitude": 40.3393583554186,
+        "longitude": 36.5419639606017,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365007",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 307,
+        "name": "KARDEŞLER ROTBALANS",
+        "latitude": 40.3346157377457,
+        "longitude": 36.5435461144646,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365007",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 308,
+        "name": "EMRİ OTOGAZ",
+        "latitude": 40.3347754699207,
+        "longitude": 36.5422981085005,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365007",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 309,
+        "name": "TOKAT İLKSAN",
+        "latitude": 40.3344459202356,
+        "longitude": 36.5432892785219,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365021",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 310,
+        "name": "TÜRKÖZ TİCARET",
+        "latitude": 40.3340050198051,
+        "longitude": 36.540802845037,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365021",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 311,
+        "name": "CASTROL OTO KLİNİK",
+        "latitude": 40.3333406782181,
+        "longitude": 36.5390686299804,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365021",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 312,
+        "name": "PİLOT GARAGE",
+        "latitude": 40.3339414106632,
+        "longitude": 36.5394514661202,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365022",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 313,
+        "name": "SELÇUK MAKİNE",
+        "latitude": 40.3328947619854,
+        "longitude": 36.540053896706,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365022",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 314,
+        "name": "BUHARA KAPORTA",
+        "latitude": 40.332545272903,
+        "longitude": 36.5408154819893,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365022",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 315,
+        "name": "GÖZDE OTO ELEKTİRİK",
+        "latitude": 40.3325972814914,
+        "longitude": 36.5407561301537,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365022",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 316,
+        "name": "YÜCEL YAĞLICI",
+        "latitude": 40.3255462191349,
+        "longitude": 36.5582249445139,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365022",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 317,
+        "name": "DEMİR KARDEŞLER AV MARKET",
+        "latitude": 40.319413504447,
+        "longitude": 36.5548674524312,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365022",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 318,
+        "name": "DEMİR KARDEŞLER ÇAY EVİ",
+        "latitude": 40.3192057342832,
+        "longitude": 36.5546549138465,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365023",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 319,
+        "name": "ÇAKIR  MARKET",
+        "latitude": 40.3388294350211,
+        "longitude": 36.5436960388399,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365023",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 320,
+        "name": "BAYRAKTAR CİVATA",
+        "latitude": 40.3331156528307,
+        "longitude": 36.5415853139721,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365023",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 321,
+        "name": "NİĞDELİLER HURDACILIK",
+        "latitude": 40.3314626002876,
+        "longitude": 36.5407624633555,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365023",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 322,
+        "name": "ŞAH OTO KAPORTA",
+        "latitude": 40.3302494064563,
+        "longitude": 36.5434712738887,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365023",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 323,
+        "name": "ALEV TUZ",
+        "latitude": 40.3303234466824,
+        "longitude": 36.5434308847039,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365024",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 324,
+        "name": "ÖZEN OTO",
+        "latitude": 40.3301635758081,
+        "longitude": 36.5434997835012,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365024",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 325,
+        "name": "ÖREN MOBİLYA",
+        "latitude": 40.3306097468873,
+        "longitude": 36.5426257556855,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365024",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 326,
+        "name": "AKSOY YAPI MARKET",
+        "latitude": 40.3321259375256,
+        "longitude": 36.5388309515656,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365024",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 327,
+        "name": "BURSA FABRİKA SATIŞ",
+        "latitude": 40.3158067787416,
+        "longitude": 36.5524663283841,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365024",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 328,
+        "name": "HAYAL GELİNLİK",
+        "latitude": 40.3157754570836,
+        "longitude": 36.5546972249541,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365024",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 329,
+        "name": "ARTOVA YAPI",
+        "latitude": 40.3157303616158,
+        "longitude": 36.553517556829,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365024",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 330,
+        "name": "BİZİM MANAV",
+        "latitude": 40.3158078199062,
+        "longitude": 36.5537890173666,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365025",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 331,
+        "name": "ÇINAR EKMEK FABRİKASI",
+        "latitude": 40.3266535936872,
+        "longitude": 36.5020317390577,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365025",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 332,
+        "name": "BEKAY DONDURMA",
+        "latitude": 40.3204343111516,
+        "longitude": 36.4891843590683,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365025",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 333,
+        "name": "ÜLKÜ TEKSTİL(YEMEKHANE-BÜFE-2ADET)",
+        "latitude": 40.3207309000268,
+        "longitude": 36.4898302573249,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365025",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 334,
+        "name": "DÖRTLER KABLO",
+        "latitude": 40.329519951192,
+        "longitude": 36.4945340880372,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365025",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 335,
+        "name": "MEKA GIDA",
+        "latitude": 40.3242617816293,
+        "longitude": 36.5090992259664,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365025",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 336,
+        "name": "600 EVLER BÜFE",
+        "latitude": 40.3428499565359,
+        "longitude": 36.5404252041637,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365026",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 337,
+        "name": "HAMİT PLASTİK",
+        "latitude": 40.3374138607908,
+        "longitude": 36.5373621049973,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365026",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 338,
+        "name": "AUTO KING",
+        "latitude": 40.3348383011759,
+        "longitude": 36.5379626640493,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365026",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 339,
+        "name": "OTONU TANI",
+        "latitude": 40.3341124692963,
+        "longitude": 36.5396253214433,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365026",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 340,
+        "name": "İŞLR BİSİKLET",
+        "latitude": 40.3042928056427,
+        "longitude": 36.5538058417131,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365026",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 341,
+        "name": "ERENLER 3 KUMBARA",
+        "latitude": 40.3253987850487,
+        "longitude": 36.5530429751677,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365026",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 342,
+        "name": "HAS HALI YIKAMA",
+        "latitude": 40.3361885108017,
+        "longitude": 36.5341561758267,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365026",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 343,
+        "name": "ERENLER 2 KUMBARA",
+        "latitude": 40.3363044748547,
+        "longitude": 36.5497406977427,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365027",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 344,
+        "name": "ERENLER GÜNEŞLİ 3 KUMBARA",
+        "latitude": 40.3462604070768,
+        "longitude": 36.5310223507982,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365027",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 345,
+        "name": "SERİNCE ÇİĞKÖFTE",
+        "latitude": 40.307704927944,
+        "longitude": 36.5537716021621,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365027",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 346,
+        "name": "İREM MARKET",
+        "latitude": 40.3319112209176,
+        "longitude": 36.5538285045859,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365027",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 347,
+        "name": "BZM KIRTASİYE",
+        "latitude": 40.322501692622,
+        "longitude": 36.551048615552,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365027",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 348,
+        "name": "FERSAH AMBALAJ",
+        "latitude": 40.3204606758879,
+        "longitude": 36.5537004185808,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365027",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 349,
+        "name": "ARI OFSET MATBAA",
+        "latitude": 40.3204275469789,
+        "longitude": 36.5516383945864,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365028",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 350,
+        "name": "DONAT DÜRÜM",
+        "latitude": 40.3337376189078,
+        "longitude": 36.5522798037648,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365028",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 351,
+        "name": "ÇAVUŞOĞLU KUYUMCULUK",
+        "latitude": 40.3170477357251,
+        "longitude": 36.5522039296418,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365028",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 352,
+        "name": "İNCİ PERDE",
+        "latitude": 40.3393165034877,
+        "longitude": 36.5421293855922,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365028",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 353,
+        "name": "NUR TERZİ",
+        "latitude": 40.3155965467522,
+        "longitude": 36.5530547688613,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365028",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 354,
+        "name": "GÖKREM MARKET",
+        "latitude": 40.3129412528745,
+        "longitude": 36.5495538421494,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365028",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 355,
+        "name": "Bİ KİBRİT TABACCO",
+        "latitude": 40.32332114581,
+        "longitude": 36.5539661803774,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365028",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 356,
+        "name": "GÖÇEL İLETİŞİM",
+        "latitude": 40.3236281357874,
+        "longitude": 36.5527264070571,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365029",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 357,
+        "name": "TEPEHAN PİDE",
+        "latitude": 40.3049515147968,
+        "longitude": 36.5535769672629,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365029",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 358,
+        "name": "KÜLLÜK SHOP",
+        "latitude": 40.3390816786911,
+        "longitude": 36.5427526591845,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365029",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 359,
+        "name": "DUMAN KUTU",
+        "latitude": 40.315687830984,
+        "longitude": 36.5511029571891,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365029",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 360,
+        "name": "NET DUY TOKAT",
+        "latitude": 40.3234965843666,
+        "longitude": 36.5498822575858,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365029",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 361,
+        "name": "TOKAT HOME TAŞHAN",
+        "latitude": 40.3174126503708,
+        "longitude": 36.5517665183964,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365029",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 362,
+        "name": "BUHARA KAPORTA ORGANİZE",
+        "latitude": 40.320114199384,
+        "longitude": 36.4990824313841,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365029",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 363,
+        "name": "ARSLAN SOĞUTMA",
+        "latitude": 40.3183268819185,
+        "longitude": 36.5558558365065,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36503",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 364,
+        "name": "İDEAL SİGORTA",
+        "latitude": 40.318456302643,
+        "longitude": 36.5559478049853,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36503",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 365,
+        "name": "BAŞDAMAR TİCARET",
+        "latitude": 40.3174666157049,
+        "longitude": 36.5525763090486,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36503",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 366,
+        "name": "ÖZ ANADOLU MARKET",
+        "latitude": 40.3126972091062,
+        "longitude": 36.5517714295067,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36503",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 367,
+        "name": "TÜRKMENOĞLU GİYİM MEYDAN",
+        "latitude": 40.3177037000572,
+        "longitude": 36.5541646021504,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36503",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 368,
+        "name": "BELEDİYE VEZNESİ",
+        "latitude": 40.3134150964691,
+        "longitude": 36.5496403120405,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36503",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 369,
+        "name": "YORULMAZ FIRIN",
+        "latitude": 40.3307284932922,
+        "longitude": 36.5429314296195,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36503",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 370,
+        "name": "EMRE KİTAPEVİ",
+        "latitude": 40.3238476729821,
+        "longitude": 36.5492074658296,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365031",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 371,
+        "name": "ÇELİK YAZMA",
+        "latitude": 40.3157786087262,
+        "longitude": 36.5508595723844,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365031",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 372,
+        "name": "ÇİFTLİK ŞARKÜTERİ",
+        "latitude": 40.3360721840315,
+        "longitude": 36.5544668854196,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365031",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 373,
+        "name": "DEMTAŞ PERAKENDE",
+        "latitude": 40.2997428580043,
+        "longitude": 36.5560439262449,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365031",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 374,
+        "name": "TÜRKMENOĞLU GİYİM BEHZAT",
+        "latitude": 40.3078273380748,
+        "longitude": 36.5537217246101,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365031",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 375,
+        "name": "TERZİ SERDAR",
+        "latitude": 40.3154382298659,
+        "longitude": 36.553051037364,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365031",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 376,
+        "name": "TARZ MOBİLYA",
+        "latitude": 40.3159097561438,
+        "longitude": 36.5533592620856,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365031",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 377,
+        "name": "ÇEVİRGEN YAPI MALZEMELERİ",
+        "latitude": 40.3166451061298,
+        "longitude": 36.5535712008303,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365032",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 378,
+        "name": "UĞRAK SPOT",
+        "latitude": 40.3173833863612,
+        "longitude": 36.5539853690147,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365032",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 379,
+        "name": "MEYDAN ECZANE",
+        "latitude": 40.3177301722811,
+        "longitude": 36.5536075225104,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365032",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 380,
+        "name": "BAŞAK UNLU MAMÜLLERİ",
+        "latitude": 40.3176634565788,
+        "longitude": 36.5555282512426,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365032",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 381,
+        "name": "TOKİ MARKET",
+        "latitude": 40.3408973236935,
+        "longitude": 36.5973688191413,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365032",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 382,
+        "name": "BİLKENT MARKET",
+        "latitude": 40.3425012793348,
+        "longitude": 36.5971682188064,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365032",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 383,
+        "name": "EREN GIDA",
+        "latitude": 40.3192034194795,
+        "longitude": 36.5546980372868,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365033",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 384,
+        "name": "MURAT BALIKÇILIK",
+        "latitude": 40.3186408871446,
+        "longitude": 36.5542755112214,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365033",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 385,
+        "name": "KARDEŞLER BALIKÇILIK",
+        "latitude": 40.3186406082994,
+        "longitude": 36.5544149884926,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365033",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 386,
+        "name": "BAY BAHARAT",
+        "latitude": 40.3185196144174,
+        "longitude": 36.5528128511668,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365033",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 387,
+        "name": "ÜSTÜN SEBZE MEYVE",
+        "latitude": 40.3178371341095,
+        "longitude": 36.5526064788228,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365033",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 388,
+        "name": "EYÜPOĞLU KURUYEMİŞ",
+        "latitude": 40.3176575683005,
+        "longitude": 36.5523275402013,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365033",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 389,
+        "name": "ÇİĞDEM TAVUK MARKET",
+        "latitude": 40.3174402245621,
+        "longitude": 36.5557540877779,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365033",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 390,
+        "name": "ÇINARAY KASAP",
+        "latitude": 40.3170710626181,
+        "longitude": 36.5558657297982,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365034",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 391,
+        "name": "SAKLI KÖŞE PİDE",
+        "latitude": 40.3144991156776,
+        "longitude": 36.5523179206241,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365034",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 392,
+        "name": "SERİNCE ÇİĞKÖFTE ÇEKENLİ KARŞISI",
+        "latitude": 40.316785933651,
+        "longitude": 36.5552064104499,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365034",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 393,
+        "name": "ANAHTARCI",
+        "latitude": 40.3121281183211,
+        "longitude": 36.553107445607,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365034",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 394,
+        "name": "ÖZÇELİK UNLU MAMÜLLERİ",
+        "latitude": 40.3080158707165,
+        "longitude": 36.5534461726968,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365034",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 395,
+        "name": "CP PİLİÇ",
+        "latitude": 40.3088082291464,
+        "longitude": 36.5531139627912,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365034",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 396,
+        "name": "EBRULİ ŞAL EŞARP",
+        "latitude": 40.3110587449936,
+        "longitude": 36.5522858379534,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365034",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 397,
+        "name": "CADDE DÖNER",
+        "latitude": 40.3130982002705,
+        "longitude": 36.5514319629761,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365044",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 398,
+        "name": "ZENA TAKI",
+        "latitude": 40.3180693916516,
+        "longitude": 36.5518142229296,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365044",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 399,
+        "name": "BY ORGANİK",
+        "latitude": 40.3195582933211,
+        "longitude": 36.5518188062527,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365045",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 400,
+        "name": "ÇAĞLAR SİMİT FIRINI",
+        "latitude": 40.3213201121834,
+        "longitude": 36.5499505859949,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365045",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 401,
+        "name": "GÜLER OPTİK",
+        "latitude": 40.3235232634748,
+        "longitude": 36.5496648544985,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365045",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 402,
+        "name": "URFA OCAKBAŞI",
+        "latitude": 40.3240641956784,
+        "longitude": 36.5485662335747,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365045",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 403,
+        "name": "DOĞAN TANDIR",
+        "latitude": 40.335098985337,
+        "longitude": 36.551902956252,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365045",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 404,
+        "name": "KÖYLÜCE ŞARKÜTERİ",
+        "latitude": 40.3355906725567,
+        "longitude": 36.5522573483098,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365045",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 405,
+        "name": "UÇAR BEYAZ EŞYA",
+        "latitude": 40.3356415381821,
+        "longitude": 36.5522060419471,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365045",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 406,
+        "name": "BY BAKKAL",
+        "latitude": 40.3365017481172,
+        "longitude": 36.551244718419,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365046",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 407,
+        "name": "FISTIKOĞLU TATLICI",
+        "latitude": 40.3374221597867,
+        "longitude": 36.5479428634249,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365046",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 408,
+        "name": "ÇİZGİ GROSS",
+        "latitude": 40.3381229770007,
+        "longitude": 36.5385761342979,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365046",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 409,
+        "name": "KASAP ZEKİ",
+        "latitude": 40.3311996624283,
+        "longitude": 36.5561515880352,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365046",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 410,
+        "name": "TERZİ MUSTAFA",
+        "latitude": 40.3338416801738,
+        "longitude": 36.5536050200144,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365046",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 411,
+        "name": "SAKURA ÇİÇEKCİLİK",
+        "latitude": 40.3336322200339,
+        "longitude": 36.5523144490454,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365046",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 412,
+        "name": "YELPELİ KOMİSYONCULUK",
+        "latitude": 40.3372841654961,
+        "longitude": 36.5297815261585,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365046",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 413,
+        "name": "MEVSİM KOMİSYONCULUK",
+        "latitude": 40.3368959071184,
+        "longitude": 36.529333004175,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365047",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 414,
+        "name": "KARDELEN KUAFÖR",
+        "latitude": 40.3230319502547,
+        "longitude": 36.553173316651,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365047",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 415,
+        "name": "ORKİDE ÇİÇEKCİLİK",
+        "latitude": 40.3227337690476,
+        "longitude": 36.5523206358341,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365047",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 416,
+        "name": "GEZGİN BİLGİSAYAR",
+        "latitude": 40.3240881021399,
+        "longitude": 36.5490082127986,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365047",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 417,
+        "name": "ÇETİN ÇİLİNGİR",
+        "latitude": 40.3211365144663,
+        "longitude": 36.5501950243834,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365047",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 418,
+        "name": "SARITAŞ MARKET",
+        "latitude": 40.3209221534834,
+        "longitude": 36.550390699999,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365047",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 419,
+        "name": "BEKO",
+        "latitude": 40.3208602997596,
+        "longitude": 36.5518323362145,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365047",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 420,
+        "name": "PUSAT ELEKTİRİK",
+        "latitude": 40.3182799669942,
+        "longitude": 36.5555938226223,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365048",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 421,
+        "name": "ÜMRAN MARKET",
+        "latitude": 40.3176838650676,
+        "longitude": 36.5548453553199,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365048",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 422,
+        "name": "KANAAT SADAKAT",
+        "latitude": 40.3176764067153,
+        "longitude": 36.5539303090603,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365048",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 423,
+        "name": "TAŞKINLAR TABACCO",
+        "latitude": 40.3182633972293,
+        "longitude": 36.5528657443874,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365048",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 424,
+        "name": "MEYDAN ŞARKÜTERİ",
+        "latitude": 40.3177448868888,
+        "longitude": 36.5528440732181,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365048",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 425,
+        "name": "ÖZTÜRK BAKLİYAT",
+        "latitude": 40.3177769447606,
+        "longitude": 36.5530301002289,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365048",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 426,
+        "name": "ECZANE TEKELİ",
+        "latitude": 40.3233661411441,
+        "longitude": 36.5573542731001,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365049",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 427,
+        "name": "SERİNCE ÇİĞKÖFTE BAŞÇİFTLİK KOOPERATİF",
+        "latitude": 40.3192050074671,
+        "longitude": 36.5553199309304,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365049",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 428,
+        "name": "APPLE KENAN(PRATİK İLETİŞİM)",
+        "latitude": 40.3158777832863,
+        "longitude": 36.5512044092995,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365049",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 429,
+        "name": "YETİMLER BALIKÇILIK",
+        "latitude": 40.3186709891086,
+        "longitude": 36.5545156733587,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365049",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 430,
+        "name": "PAYİDAR TABACCO",
+        "latitude": 40.3190995128728,
+        "longitude": 36.5553168332083,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365049",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 431,
+        "name": "MELİH İLETİŞİM",
+        "latitude": 40.323470555897,
+        "longitude": 36.5527884707573,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365049",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 432,
+        "name": "ÜNCÜ BAHARAT",
+        "latitude": 40.3233524791655,
+        "longitude": 36.5533638333707,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365049",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 433,
+        "name": "AYAZ İLETİŞİM",
+        "latitude": 40.3231790017066,
+        "longitude": 36.55297983263,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36505",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 434,
+        "name": "MENDERESLER GIDA",
+        "latitude": 40.3231563152065,
+        "longitude": 36.5537862978713,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36505",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 435,
+        "name": "REGAL",
+        "latitude": 40.323153500147,
+        "longitude": 36.554079089645,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36505",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 436,
+        "name": "ESER AMBALAJ",
+        "latitude": 40.3355506518246,
+        "longitude": 36.5526023840462,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36505",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 437,
+        "name": "MERT BURAK TUR",
+        "latitude": 40.3358550008223,
+        "longitude": 36.5507665896727,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36505",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 438,
+        "name": "NUR DÖNER",
+        "latitude": 40.3354669030322,
+        "longitude": 36.5509215810039,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36505",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 439,
+        "name": "BATTALBEY",
+        "latitude": 40.3351768186382,
+        "longitude": 36.551445068919,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365051",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 440,
+        "name": "ADIYAMANLI ÇİĞKÖFTE",
+        "latitude": 40.339210022611,
+        "longitude": 36.5425624425041,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365051",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 441,
+        "name": "BEYBABA TABACCO",
+        "latitude": 40.3389890520998,
+        "longitude": 36.5424714405053,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365051",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 442,
+        "name": "AKADEMİ KAFE",
+        "latitude": 40.3411871584194,
+        "longitude": 36.536628611885,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365051",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 443,
+        "name": "ADIYAMANLI ÇİĞ KÖFTECİ ERKAN USTA",
+        "latitude": 40.3411517005359,
+        "longitude": 36.5367614592661,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365051",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 444,
+        "name": "AŞURE MARKET",
+        "latitude": 40.323687298763,
+        "longitude": 36.5519358832606,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365051",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 445,
+        "name": "AŞURE MUTFAK",
+        "latitude": 40.3236120248301,
+        "longitude": 36.5514082117716,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365051",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 446,
+        "name": "AŞURE MARKET 1",
+        "latitude": 40.3263242416999,
+        "longitude": 36.5483288760333,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365052",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 447,
+        "name": "MELEK GIDA PAZARI",
+        "latitude": 40.3249361551757,
+        "longitude": 36.5594599736468,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365052",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 448,
+        "name": "KÖYLÜM MARKET",
+        "latitude": 40.3242284954696,
+        "longitude": 36.5575510658014,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365052",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 449,
+        "name": "TERMİNAL 5.BÜFE",
+        "latitude": 40.3281695957359,
+        "longitude": 36.5592625585901,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365052",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 450,
+        "name": "ÇAMLIBEL MARKET",
+        "latitude": 40.3360754012187,
+        "longitude": 36.5541879112452,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365052",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 451,
+        "name": "ÖZGÜR FIRIN",
+        "latitude": 40.3365803067768,
+        "longitude": 36.5542086730554,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365052",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 452,
+        "name": "KAHRAMAN DONDURMA",
+        "latitude": 40.3317538390871,
+        "longitude": 36.5564843101554,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365053",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 453,
+        "name": "TURHALPİDE YOĞURTMAÇ",
+        "latitude": 40.3401175899701,
+        "longitude": 36.552595436906,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365053",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 454,
+        "name": "TAŞ FIRIN",
+        "latitude": 40.3417200311221,
+        "longitude": 36.5517075364273,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365053",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 455,
+        "name": "ACR AYAKKABI",
+        "latitude": 40.3128245593074,
+        "longitude": 36.5517507278063,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365053",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 456,
+        "name": "MDA HOME",
+        "latitude": 40.3131426168067,
+        "longitude": 36.551589965884,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365053",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 457,
+        "name": "MEYDAN MARKETLERİ",
+        "latitude": 40.3157579168136,
+        "longitude": 36.5476816190752,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365053",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 458,
+        "name": "AŞÇILAR MARKET",
+        "latitude": 40.3156760864315,
+        "longitude": 36.5446460245366,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365053",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 459,
+        "name": "ÖNCÜLER MARKET",
+        "latitude": 40.3157592855951,
+        "longitude": 36.5448507872855,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365054",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 460,
+        "name": "BİNGÖL KURUYEMİŞ",
+        "latitude": 40.3154745605858,
+        "longitude": 36.5443917951111,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365054",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 461,
+        "name": "TOROS DONDURMA",
+        "latitude": 40.3138462620629,
+        "longitude": 36.550160907299,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365054",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 462,
+        "name": "DOĞA BALIK IZGARA",
+        "latitude": 40.2510880187094,
+        "longitude": 36.5455864999774,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365054",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 463,
+        "name": "ÖZTÜRK ŞARKÜTERİ",
+        "latitude": 40.3119863909787,
+        "longitude": 36.5530891898117,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365054",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 464,
+        "name": "ÇAT UNLU MAMÜLLERİ",
+        "latitude": 40.3157614414448,
+        "longitude": 36.5475049726383,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365054",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 465,
+        "name": "ALİ TUSİ SİMİT",
+        "latitude": 40.3157400802745,
+        "longitude": 36.5477439173279,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365054",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 466,
+        "name": "SU TESİSATÇI",
+        "latitude": 40.3158080068438,
+        "longitude": 36.5476111748266,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365055",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 467,
+        "name": "ÖZ TADIM FIRIN",
+        "latitude": 40.3336743306452,
+        "longitude": 36.5570560387484,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365055",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 468,
+        "name": "AYÇA TEKSTİL",
+        "latitude": 40.3169309485595,
+        "longitude": 36.5511413527822,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365055",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 469,
+        "name": "AKBELENLİ CAN ZÜCCARİYE",
+        "latitude": 40.3161868491387,
+        "longitude": 36.5530533471506,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365055",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 470,
+        "name": "FIRINİSTAN",
+        "latitude": 40.3236205844135,
+        "longitude": 36.5511141704556,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365055",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 471,
+        "name": "HASTA BEBEK BEZİ DÜNYASI",
+        "latitude": 40.3173286049468,
+        "longitude": 36.5526260607889,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365055",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 472,
+        "name": "ŞAHİN YAĞLI",
+        "latitude": 40.3233057227406,
+        "longitude": 36.5503504909115,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365056",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 473,
+        "name": "ÖZ KAYMAK DONDURMA",
+        "latitude": 40.3036065596068,
+        "longitude": 36.5585853867104,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365056",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 474,
+        "name": "GÖVCE OTO LASTİK",
+        "latitude": 40.3262885254616,
+        "longitude": 36.5479763241851,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365056",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 475,
+        "name": "KORKMAZ SİMİT",
+        "latitude": 40.3059409279519,
+        "longitude": 36.5588373154245,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365056",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 476,
+        "name": "KERVAN DONDURMA",
+        "latitude": 40.3402784066332,
+        "longitude": 36.5467856073104,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365056",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 477,
+        "name": "TOK-VET VETERİNER",
+        "latitude": 40.3470524141643,
+        "longitude": 36.544581343997,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365056",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 478,
+        "name": "DORA PİDE",
+        "latitude": 40.3467260604106,
+        "longitude": 36.5442062628707,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365056",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 479,
+        "name": "GÜVEN AUTO",
+        "latitude": 40.3275633013857,
+        "longitude": 36.5586583792036,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365057",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 480,
+        "name": "KUBİLAY TABACCO",
+        "latitude": 40.3206734379701,
+        "longitude": 36.5504519008813,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365057",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 481,
+        "name": "MODA KONSEPT",
+        "latitude": 40.3227248637244,
+        "longitude": 36.5518228204713,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365057",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 482,
+        "name": "CEPHANE İLETİŞİM",
+        "latitude": 40.3229291935313,
+        "longitude": 36.5518807370331,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365057",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 483,
+        "name": "NİSA SİGORTA",
+        "latitude": 40.3223383590337,
+        "longitude": 36.5520085605198,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365057",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 484,
+        "name": "BUTİK BÜŞRA",
+        "latitude": 40.320110847757,
+        "longitude": 36.5515929048745,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365057",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 485,
+        "name": "ASİL OTO",
+        "latitude": 40.3336958416458,
+        "longitude": 36.578845808763,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365057",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 486,
+        "name": "TOPÇAM OTO (2 ADET)",
+        "latitude": 40.3337637830021,
+        "longitude": 36.579421891872,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365058",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 487,
+        "name": "PARAY OTO",
+        "latitude": 40.3335722261436,
+        "longitude": 36.5789043923957,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365058",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 488,
+        "name": "SELİM OTO",
+        "latitude": 40.3334110974887,
+        "longitude": 36.5789294148459,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365058",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 489,
+        "name": "TOKAT OTOMOTİV",
+        "latitude": 40.3336445506109,
+        "longitude": 36.5794715542895,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365058",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 490,
+        "name": "TEZCAN OTO",
+        "latitude": 40.3338674291253,
+        "longitude": 36.5788319569862,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365058",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 491,
+        "name": "OSMANLI OTO",
+        "latitude": 40.3332758322079,
+        "longitude": 36.5789651003074,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365058",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 492,
+        "name": "İBO OTO",
+        "latitude": 40.33387544353,
+        "longitude": 36.5796364843424,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365059",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 493,
+        "name": "MURAT OTO",
+        "latitude": 40.3333081315231,
+        "longitude": 36.5797287780174,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365059",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 494,
+        "name": "BİLECAN MARKET",
+        "latitude": 40.3401116873754,
+        "longitude": 36.5622519264379,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365059",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 495,
+        "name": "EFE UNLU MAMÜLLERİ",
+        "latitude": 40.3037279252994,
+        "longitude": 36.5566999455667,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365059",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 496,
+        "name": "ÜNİVERSİTE KANTİN ÖN",
+        "latitude": 40.324496188593,
+        "longitude": 36.5460743799456,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365059",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 497,
+        "name": "ÜNİVERSİTE KANTİN ARKA",
+        "latitude": 40.3248066163726,
+        "longitude": 36.5453350714178,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365059",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 498,
+        "name": "SOO HOUSE EXPRESS",
+        "latitude": 40.3342360538174,
+        "longitude": 36.4696819841793,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365059",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 499,
+        "name": "ÇELTEK PETROL POMPACI ODASI",
+        "latitude": 40.334597739448,
+        "longitude": 36.470068720958,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365068",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 500,
+        "name": "İŞLER BİSİKLET",
+        "latitude": 40.3050324242676,
+        "longitude": 36.5535649079381,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365068",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 501,
+        "name": "EMİN KÖY MANAVI",
+        "latitude": 40.3080809975164,
+        "longitude": 36.5534477502065,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365069",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 502,
+        "name": "İŞLER KIRTASİYE 600 EVLER",
+        "latitude": 40.3401876106539,
+        "longitude": 36.5390778857677,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365069",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 503,
+        "name": "ODYOKENT İŞİTME CİHAZLARI",
+        "latitude": 40.3234344524991,
+        "longitude": 36.5481300281634,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365069",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 504,
+        "name": "NAZAR BÜFE",
+        "latitude": 40.3227962735533,
+        "longitude": 36.5556182315529,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365069",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 505,
+        "name": "HIK VISION KAMERA SİSTEMELERİ SİNAN",
+        "latitude": 40.315305236937,
+        "longitude": 36.5530486789999,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365069",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 506,
+        "name": "YAKAR BÜFE",
+        "latitude": 40.3281427256437,
+        "longitude": 36.5186701640324,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365069",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 507,
+        "name": "DEVRAN MARKET",
+        "latitude": 40.2951202870802,
+        "longitude": 36.5511892308247,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365069",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 508,
+        "name": "ATA EMLAK",
+        "latitude": 40.3107825236767,
+        "longitude": 36.5575104188389,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36507",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 509,
+        "name": "MİS FIRIN",
+        "latitude": 40.3299418811835,
+        "longitude": 36.5493373063847,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36507",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 510,
+        "name": "İPAR KASAP",
+        "latitude": 40.3235070814185,
+        "longitude": 36.5506117156321,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36507",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 511,
+        "name": "SERİNCE (ARDALA)",
+        "latitude": 40.3123048979867,
+        "longitude": 36.5517251149098,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36507",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 512,
+        "name": "ÖZ SİVAS KAMİL KOÇ",
+        "latitude": 40.3283665531089,
+        "longitude": 36.5595203336138,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36507",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 513,
+        "name": "TOKAT 60 GÜLARAS",
+        "latitude": 40.3284401392433,
+        "longitude": 36.5592433387358,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.36507",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 514,
+        "name": "Bİ ÇAY SİMİT",
+        "latitude": 40.3206988056414,
+        "longitude": 36.5546095284532,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365091",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 515,
+        "name": "SULTANOĞLU BAKLAVA",
+        "latitude": 40.3341356152186,
+        "longitude": 36.5520688947492,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365092",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 516,
+        "name": "WEST TABACCO",
+        "latitude": 40.3342156605402,
+        "longitude": 36.5520203542603,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365092",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 517,
+        "name": "MOTORCU ALİ ŞİMŞEK",
+        "latitude": 40.3304524927136,
+        "longitude": 36.5425404435647,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365092",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 518,
+        "name": "BÜFE",
+        "latitude": 40.3341680553656,
+        "longitude": 36.5502175643835,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365092",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 519,
+        "name": "LOCA SUİTE BÜFE",
+        "latitude": 40.3316855627232,
+        "longitude": 36.5337222829556,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365092",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 520,
+        "name": "KÖŞEM BÜFE",
+        "latitude": 40.3303544030072,
+        "longitude": 36.5429340130976,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365093",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 521,
+        "name": "MEYDAN İLETİŞİM",
+        "latitude": 40.3182806122088,
+        "longitude": 36.5526273686534,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365093",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 522,
+        "name": "GÜLMAR BÜFE",
+        "latitude": 40.3171608528463,
+        "longitude": 36.5520673952295,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365093",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 523,
+        "name": "ÇİĞDEM PETROL BÜFE",
+        "latitude": 40.3451723901983,
+        "longitude": 36.6257319702458,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365093",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 524,
+        "name": "CEP CITY TEKNİK SERVİS",
+        "latitude": 40.3233737035351,
+        "longitude": 36.5514208389722,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365093",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 525,
+        "name": "YÜCEL YAĞLI",
+        "latitude": 40.3231830813501,
+        "longitude": 36.5513018817191,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365093",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 526,
+        "name": "AKSEL AUTO",
+        "latitude": 40.320755593703,
+        "longitude": 36.5504705285487,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365093",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 527,
+        "name": "POLAT GALERİ",
+        "latitude": 40.322912742937,
+        "longitude": 36.5525726527183,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365094",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 528,
+        "name": "OTANTİK GİYİM",
+        "latitude": 40.3175917942924,
+        "longitude": 36.5518282323774,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365094",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 529,
+        "name": "ÇİĞKÖFTEM",
+        "latitude": 40.3162485481949,
+        "longitude": 36.5550264316126,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365094",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 530,
+        "name": "KARŞIYAKA UCUZLUK",
+        "latitude": 40.3336095419778,
+        "longitude": 36.5568698459678,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365094",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 531,
+        "name": "KOMAGENE ÇİĞKÖFTE",
+        "latitude": 40.3224850990616,
+        "longitude": 36.5546461835362,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365094",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 532,
+        "name": "JAKAMEN GİYİM",
+        "latitude": 40.3231985184207,
+        "longitude": 36.5524353716779,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365094",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 533,
+        "name": "ÇİZGİ KIRTASİYE (2ADET)",
+        "latitude": 40.324481244571,
+        "longitude": 36.5518765458609,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365095",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 534,
+        "name": "PAYİDAR TABACCO",
+        "latitude": 40.3239226403771,
+        "longitude": 36.5510609736588,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365095",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 535,
+        "name": "ÖMÜR YUFKA KADAYIF",
+        "latitude": 40.3211958689637,
+        "longitude": 36.5503964156398,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365095",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 536,
+        "name": "EKİCİ TELEFON",
+        "latitude": 40.3204724136282,
+        "longitude": 36.5515646870236,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365095",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 537,
+        "name": "SALON ŞAHANE",
+        "latitude": 40.3149911809032,
+        "longitude": 36.5524475416626,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365095",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 538,
+        "name": "SERİNCE ÇİĞ KÖFTE VALİ YOKUŞU",
+        "latitude": 40.320962676923,
+        "longitude": 36.5509017572524,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365095",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 539,
+        "name": "TOBACCO SHOP TÜTÜNCÜ",
+        "latitude": 40.3077726166422,
+        "longitude": 36.553767503842,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365095",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 540,
+        "name": "TUNA TİCARET",
+        "latitude": 40.336405159146,
+        "longitude": 36.5296716008998,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365096",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 541,
+        "name": "AMBALAJ MARKET",
+        "latitude": 40.3366341955215,
+        "longitude": 36.5304401529957,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365096",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 542,
+        "name": "DOSTLAR KIRAATHANESİ",
+        "latitude": 40.3366643157546,
+        "longitude": 36.5294009826451,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365096",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 543,
+        "name": "COMPUTES EKSPERTİZ",
+        "latitude": 40.3340121428986,
+        "longitude": 36.5394237551449,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365096",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 544,
+        "name": "LEZZET KÖŞESİ ÇAY VE DÜRÜM SALONU",
+        "latitude": 40.3330838365853,
+        "longitude": 36.5382644274274,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365096",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 545,
+        "name": "KEKLİKLİ ADNAN USTA",
+        "latitude": 40.3338881815745,
+        "longitude": 36.5382620381339,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365096",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 546,
+        "name": "ÇÖZÜM OTO",
+        "latitude": 40.3311652846833,
+        "longitude": 36.5392240763231,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365097",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 547,
+        "name": "ARSLAN OTO KAPORTA",
+        "latitude": 40.3313360733736,
+        "longitude": 36.5392840484541,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365097",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 548,
+        "name": "ELA DÖNER",
+        "latitude": 40.3328915240072,
+        "longitude": 36.5401786660206,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365097",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 549,
+        "name": "İSA AYDEMİR SİGORTA",
+        "latitude": 40.3222294086713,
+        "longitude": 36.5520267482236,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365097",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 550,
+        "name": "ALTINSATIR PİDE SALONU",
+        "latitude": 40.3382499958946,
+        "longitude": 36.5386096945416,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365097",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 551,
+        "name": "TAT PİDE",
+        "latitude": 40.3316904110208,
+        "longitude": 36.5392820725651,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365097",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 552,
+        "name": "VİZYON ESNAF LOKANTASI",
+        "latitude": 40.3304142006876,
+        "longitude": 36.542553258194,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365097",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 553,
+        "name": "ARSLAN OTO DÖŞEME",
+        "latitude": 40.3304209397153,
+        "longitude": 36.5427672285955,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365098",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 554,
+        "name": "AKBABA OTO DÖŞEME",
+        "latitude": 40.3304622757984,
+        "longitude": 36.542742579483,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365098",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 555,
+        "name": "SOYLU ÇAY EVİ",
+        "latitude": 40.3340303174288,
+        "longitude": 36.5444416939357,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365098",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 556,
+        "name": "DÜRÜMCÜ VEYİS USTA",
+        "latitude": 40.3298334575417,
+        "longitude": 36.5449032004408,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365098",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 557,
+        "name": "BEŞ KARDEŞLER DÖNER",
+        "latitude": 40.324308954731,
+        "longitude": 36.5480115937704,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365098",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 558,
+        "name": "LED DÜNYASI",
+        "latitude": 40.3300835679825,
+        "longitude": 36.5417655184239,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365098",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 559,
+        "name": "CEREN ÇORBA KAVURMA",
+        "latitude": 40.32450840291,
+        "longitude": 36.5483218296516,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365098",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 560,
+        "name": "EKİN MEDİCAL",
+        "latitude": 40.3246230522666,
+        "longitude": 36.5483167113846,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365099",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 561,
+        "name": "SES İŞİTME CİHAZLARI",
+        "latitude": 40.3242377994159,
+        "longitude": 36.5485051645272,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365099",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 562,
+        "name": "ÜSTAT ÇORBA",
+        "latitude": 40.3239390941818,
+        "longitude": 36.548856094519,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365099",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 563,
+        "name": "KOMAGENE",
+        "latitude": 40.3238066642169,
+        "longitude": 36.5493633405562,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365099",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 564,
+        "name": "PALMİYE ERKEK KUAFÖRÜ",
+        "latitude": 40.3237682084903,
+        "longitude": 36.550266551546,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365099",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 565,
+        "name": "TALU ECZANESİ",
+        "latitude": 40.2975490398139,
+        "longitude": 36.5566408453764,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365099",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 566,
+        "name": "PASTACI SEMİH",
+        "latitude": 40.3021347748635,
+        "longitude": 36.5557461240378,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.3651",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 567,
+        "name": "BERKAY YÖRESEL ÜRÜNLERİ",
+        "latitude": 40.3170170295967,
+        "longitude": 36.5552236709117,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.3651",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 568,
+        "name": "BEŞ KARDEŞLER PİDE SALONU",
+        "latitude": 40.3173999279501,
+        "longitude": 36.5548064585702,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.3651",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 569,
+        "name": "EGE VETERİNER",
+        "latitude": 40.3173027586207,
+        "longitude": 36.5540209710329,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.3651",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 570,
+        "name": "EMAY ECZANESİ",
+        "latitude": 40.3172305335464,
+        "longitude": 36.5540083152648,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.3651",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 571,
+        "name": "DEVA ECZANESİ",
+        "latitude": 40.3171632385825,
+        "longitude": 36.554013188114,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.3651",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 572,
+        "name": "CAN ŞARKÜTERİ",
+        "latitude": 40.3180643367066,
+        "longitude": 36.5558990118786,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.3651",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 573,
+        "name": "AVCI KASAP",
+        "latitude": 40.3180231360308,
+        "longitude": 36.5559784105795,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365101",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 574,
+        "name": "MEHTAP DÜRÜM EVİ",
+        "latitude": 40.3179616570686,
+        "longitude": 36.5559860278529,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365101",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 575,
+        "name": "ÖZKAN GSM",
+        "latitude": 40.3205941933527,
+        "longitude": 36.5521740612108,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365101",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 576,
+        "name": "SİMİT SOKAĞI",
+        "latitude": 40.31883032773,
+        "longitude": 36.5519497032569,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365101",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 577,
+        "name": "YILMAZLAR YAPI MARKET",
+        "latitude": 40.3044513434054,
+        "longitude": 36.5546762272467,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365101",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 578,
+        "name": "ÇİZGİ KIRTASİYE (BEHZAT)",
+        "latitude": 40.3136579296965,
+        "longitude": 36.5545530044533,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365101",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 579,
+        "name": "ÜMİT MARKET",
+        "latitude": 40.3076344642288,
+        "longitude": 36.5575595026436,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365101",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 580,
+        "name": "İSTANBUL PSİKOLOJİ",
+        "latitude": 40.3127950122196,
+        "longitude": 36.5531041152946,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365102",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 581,
+        "name": "RUH VE SİNİR HASTANESİ KANTİN",
+        "latitude": 40.3028916458548,
+        "longitude": 36.5538074325612,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365102",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 582,
+        "name": "PENGUEN KAFE",
+        "latitude": 40.3027839345139,
+        "longitude": 36.5533610637418,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365102",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 583,
+        "name": "EGE İLETİŞİM",
+        "latitude": 40.3236261453961,
+        "longitude": 36.5494015908222,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365102",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 584,
+        "name": "KOMANA REKLAM",
+        "latitude": 40.3242316780709,
+        "longitude": 36.5489297109211,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365102",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 585,
+        "name": "ILGIN TEMİZLİK",
+        "latitude": 40.3241059119235,
+        "longitude": 36.5488456163917,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365102",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 586,
+        "name": "AV BAYİ",
+        "latitude": 40.3241447484383,
+        "longitude": 36.5486496891383,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365103",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 587,
+        "name": "İSTANBUL ÇİĞKÖFTE",
+        "latitude": 40.3222878405526,
+        "longitude": 36.5526676799229,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365103",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 588,
+        "name": "ÜMİT OTO KİRALAMA",
+        "latitude": 40.3228656013385,
+        "longitude": 36.5526635897496,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365103",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 589,
+        "name": "CÜNEYT MARKET",
+        "latitude": 40.3193847191112,
+        "longitude": 36.5505301587758,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365103",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 590,
+        "name": "İMREN OTO YIKAMA",
+        "latitude": 40.3109978125897,
+        "longitude": 36.5544506628006,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365103",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 591,
+        "name": "FAHRİYE ARAT (KANTİN)",
+        "latitude": 40.3199419875006,
+        "longitude": 36.5532089733119,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365103",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 592,
+        "name": "KÖFTECİ RAMİZ",
+        "latitude": 40.3274121485459,
+        "longitude": 36.4773207155984,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365103",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 593,
+        "name": "YÜCEL YAĞLI FIRIN",
+        "latitude": 40.3250647617571,
+        "longitude": 36.551179634298,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365104",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 594,
+        "name": "KONAK MARKET",
+        "latitude": 40.3117405661632,
+        "longitude": 36.552291049241,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365104",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 595,
+        "name": "İSTANBUL İNŞAAT(İSLAMOĞLU)",
+        "latitude": 40.3126616676098,
+        "longitude": 36.5510852238516,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365104",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 596,
+        "name": "TUĞRA ŞİFA EVİ (İSLAMOĞLU)",
+        "latitude": 40.3127397183823,
+        "longitude": 36.5510734007397,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365104",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 597,
+        "name": "TOKAT ÜRÜNLERİ",
+        "latitude": 40.3378406741285,
+        "longitude": 36.5466995821818,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365104",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 598,
+        "name": "KILIÇLAR MARKET",
+        "latitude": 40.3385339366653,
+        "longitude": 36.5508647821476,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365104",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 599,
+        "name": "ERGEN OTOMOTİV",
+        "latitude": 40.3272469603695,
+        "longitude": 36.5260222122319,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365104",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 600,
+        "name": "BEKO",
+        "latitude": 40.3343391184816,
+        "longitude": 36.5492725518745,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365105",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 601,
+        "name": "KORKMAZ ECZANESİ",
+        "latitude": 40.3349255732662,
+        "longitude": 36.5458800185383,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365105",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 602,
+        "name": "ŞAH ÇİÇEKCİ",
+        "latitude": 40.33483765289,
+        "longitude": 36.5457115000952,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365111",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 603,
+        "name": "ELİFİM MARKET",
+        "latitude": 40.3347484457876,
+        "longitude": 36.5456015197959,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365112",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 604,
+        "name": "DÖRTYOL MİNİ MARKET",
+        "latitude": 40.3324383252258,
+        "longitude": 36.5484129267416,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365112",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 605,
+        "name": "PASAPORT PİZZA",
+        "latitude": 40.3319416213613,
+        "longitude": 36.5485211132035,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365112",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 606,
+        "name": "SERİNCE ÇİĞ KÖFTE (YEŞİLIRMAK)",
+        "latitude": 40.3318550271233,
+        "longitude": 36.5485207850924,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365112",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 607,
+        "name": "SEÇ AL MARKET",
+        "latitude": 40.3217694514368,
+        "longitude": 36.5495490436947,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365112",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 608,
+        "name": "MEZAT'ÇI",
+        "latitude": 40.3161548663166,
+        "longitude": 36.5513667602182,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365112",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 609,
+        "name": "NURİ BAYRAM KURU TEMİZLEME",
+        "latitude": 40.3165151547087,
+        "longitude": 36.5516785773994,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365113",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 610,
+        "name": "PARK MARKET",
+        "latitude": 40.3301362856425,
+        "longitude": 36.5473015360321,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365113",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 611,
+        "name": "SAFİR OTO",
+        "latitude": 40.3339999709142,
+        "longitude": 36.5429240675988,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365113",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 612,
+        "name": "ANIT BÜFE",
+        "latitude": 40.3311120965105,
+        "longitude": 36.5532719792432,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365113",
+        "visitPeriod": 30
+    },
+    {
+        "placemarkID": 613,
+        "name": "HEKİMOĞLU ECZANESİ",
+        "latitude": 40.3435882011764,
+        "longitude": 36.5405170340423,
+        "color": 0,
+        "lastVisit": "2024-10-10T15:19:25.365113",
+        "visitPeriod": 30
+    }
+]
