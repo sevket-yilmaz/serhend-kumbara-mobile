@@ -73,7 +73,6 @@ class _MapPageState extends State<MapPage> {
                 name: "YENİ KONUM",
                 latitude: argument.latitude,
                 longitude: argument.longitude,
-                color: MapPinColor.green.index,
                 lastVisit: DateTime.now(),
                 status: 1,
                 visitPeriod: 30);
@@ -302,28 +301,6 @@ class _MapPageState extends State<MapPage> {
                         onChanged: (value) => setState(() {
                           selectedPlacemark!.name = value;
                         }),
-                      )),
-                  field(
-                      "Renk",
-                      CupertinoSegmentedControl<MapPinColor>(
-                        padding: const EdgeInsets.symmetric(horizontal: 12),
-                        groupValue:
-                            MapPinColor.values[selectedPlacemark!.color!],
-                        onValueChanged: (MapPinColor value) {
-                          setState(() {
-                            selectedPlacemark!.color = value.index;
-                          });
-                        },
-                        children: const <MapPinColor, Widget>{
-                          MapPinColor.green: Padding(
-                            padding: EdgeInsets.symmetric(horizontal: 15),
-                            child: Text('Yeşil'),
-                          ),
-                          MapPinColor.yellow: Padding(
-                            padding: EdgeInsets.symmetric(horizontal: 15),
-                            child: Text('Sarı'),
-                          )
-                        },
                       )),
                   field(
                       "Ziyaret Aralığı (gün)",
