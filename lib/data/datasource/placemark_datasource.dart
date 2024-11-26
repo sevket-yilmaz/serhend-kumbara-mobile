@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:dio/dio.dart';
-import 'package:flutter/services.dart';
+// import 'package:flutter/services.dart';
 import 'package:serhend_map/data/constants.dart';
 import 'package:serhend_map/data/datasource/models/placemark.dart';
 
@@ -16,28 +16,6 @@ class PlacemarkDatasource {
 
     return placemarkList;
     // return getElements(placemarkList, 25);
-  }
-
-  Future<List<PlacemarkModel>> getPlacemarksFromJson() async {
-    final String response =
-        await rootBundle.loadString('assets/placemark.json');
-    List<PlacemarkModel> placemarkList = (jsonDecode(response) as List)
-        .map((data) => PlacemarkModel.fromJson(data))
-        .toList();
-
-    // return placemarkList;
-    return getElements(placemarkList, 25);
-  }
-
-  //TODO delete
-  List<PlacemarkModel> getElements(List<PlacemarkModel> userInput, nIndex) {
-    List<PlacemarkModel> elements = [];
-    for (int x = 0; x < userInput.length; x++) {
-      if (x % nIndex == 0) {
-        elements.add(userInput[x]);
-      }
-    }
-    return elements;
   }
 
   Future<bool> delete(int placemarkID) async {
@@ -63,12 +41,28 @@ class PlacemarkDatasource {
         PlacemarkModel.fromJson(Map<String, dynamic>.from(response.data));
     return placemark;
   }
+
+  // Future<List<PlacemarkModel>> getPlacemarksFromJson() async {
+  //   final String response =
+  //       await rootBundle.loadString('assets/placemark.json');
+  //   List<PlacemarkModel> placemarkList = (jsonDecode(response) as List)
+  //       .map((data) => PlacemarkModel.fromJson(data))
+  //       .toList();
+
+  //   // return placemarkList;
+  //   return getElements(placemarkList, 25);
+  // }
+
+  // //TODO delete
+  // List<PlacemarkModel> getElements(List<PlacemarkModel> userInput, nIndex) {
+  //   List<PlacemarkModel> elements = [];
+  //   for (int x = 0; x < userInput.length; x++) {
+  //     if (x % nIndex == 0) {
+  //       elements.add(userInput[x]);
+  //     }
+  //   }
+  //   return elements;
+  // }
 }
 
-
-// silinme durumunda statu güncellenecek
-// uydu görüntüsü
-// kırmızıları sil, renkler ziyaret durumuna göre olacak
-// pdf aktif ve pasif listeleri ayrı ayrı (dükkan ismi yeterli)
-// 
 

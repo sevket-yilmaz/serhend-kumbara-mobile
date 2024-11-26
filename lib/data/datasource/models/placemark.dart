@@ -6,6 +6,7 @@ class PlacemarkModel {
   int? status;
   DateTime? lastVisit;
   int? visitPeriod;
+  int? regionID;
 
   PlacemarkModel({
     this.placemarkID,
@@ -15,6 +16,7 @@ class PlacemarkModel {
     this.status,
     this.lastVisit,
     this.visitPeriod,
+    this.regionID,
   });
 
   factory PlacemarkModel.fromJson(Map<String, dynamic> json) => PlacemarkModel(
@@ -25,6 +27,7 @@ class PlacemarkModel {
         status: json["status"],
         lastVisit: DateTime.parse(json["lastVisit"]),
         visitPeriod: json["visitPeriod"],
+        regionID: json["regionID"],
       );
 
   Map<String, dynamic> toJson() => {
@@ -35,5 +38,6 @@ class PlacemarkModel {
         "status": status,
         "lastVisit": lastVisit!.toIso8601String().split('T').first,
         "visitPeriod": visitPeriod,
+        "regionID": regionID,
       };
 }

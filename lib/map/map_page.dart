@@ -1,15 +1,19 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:serhend_map/data/datasource/models/placemark.dart';
+import 'package:serhend_map/data/datasource/models/region.dart';
 import 'package:serhend_map/data/datasource/placemark_datasource.dart';
-import 'package:serhend_map/data/enums.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:label_marker/label_marker.dart';
+import 'package:serhend_map/data/datasource/region_datasource.dart';
 import 'package:serhend_map/helpers/map_helper.dart';
 import 'package:serhend_map/helpers/progress_indicator.dart';
+import 'package:serhend_map/map/report_popup.dart';
+import 'package:serhend_map/region/regions_page.dart';
 
-import 'helpers/alert_helper.dart';
+import '../helpers/alert_helper.dart';
 
 class MapPage extends StatefulWidget {
   const MapPage({super.key});
@@ -29,6 +33,7 @@ class _MapPageState extends State<MapPage> {
   Set<Marker> markerList = {};
   PlacemarkModel? selectedPlacemark;
   PlacemarkModel? newPlacemarkSelection;
+  List<RegionModel> regions = List.empty();
   var today = DateTime(
       DateTime.now().year, DateTime.now().month, DateTime.now().day, 0, 0, 0);
 
@@ -39,7 +44,10 @@ class _MapPageState extends State<MapPage> {
   @override
   void initState() {
     super.initState();
-    getUserLocation().then((value) => fillMarkers());
+    getUserLocation().then((value) => fillMarkers()).then((value) async {
+      RegionDatasource regionDT = RegionDatasource();
+      regions = await regionDT.getRegions();
+    });
   }
 
   @override
@@ -51,6 +59,42 @@ class _MapPageState extends State<MapPage> {
     return Scaffold(
       key: scaffoldKey,
       bottomNavigationBar: selectedPlacemark != null ? getBottomAppBar() : null,
+      floatingActionButton: SpeedDial(
+        animatedIcon: AnimatedIcons.menu_close,
+        direction: SpeedDialDirection.down,
+        switchLabelPosition: true,
+        animatedIconTheme: IconThemeData(size: 22.0),
+        curve: Curves.bounceIn,
+        overlayColor: Colors.black,
+        overlayOpacity: 0.5,
+        backgroundColor: Colors.white,
+        foregroundColor: Colors.black,
+        elevation: 8.0,
+        shape: CircleBorder(),
+        children: [
+          SpeedDialChild(
+            child: Icon(Icons.map_sharp),
+            backgroundColor: Colors.blue.shade200,
+            label: 'Bölgeler',
+            labelStyle: TextStyle(fontSize: 18.0),
+            labelBackgroundColor: Colors.blue.shade200,
+            onTap: () => Navigator.of(context).pushAndRemoveUntil(
+                MaterialPageRoute(builder: (context) => const RegionPage()),
+                (Route<dynamic> route) => true),
+          ),
+          SpeedDialChild(
+            child: Icon(Icons.receipt_long_rounded),
+            backgroundColor: Colors.green.shade200,
+            label: 'Rapor',
+            labelStyle: TextStyle(fontSize: 18.0),
+            labelBackgroundColor: Colors.green.shade200,
+            onTap: () {
+              reportDialog(context);
+            },
+          ),
+        ],
+      ),
+      floatingActionButtonLocation: FloatingActionButtonLocation.startTop,
       body: GoogleMap(
           mapType: MapType.hybrid,
           scrollGesturesEnabled: true,
@@ -301,6 +345,35 @@ class _MapPageState extends State<MapPage> {
                         onChanged: (value) => setState(() {
                           selectedPlacemark!.name = value;
                         }),
+                      )),
+                  field(
+                      "Bölge",
+                      DropdownButton<RegionModel>(
+                        value: selectedPlacemark!.regionID != null
+                            ? regions.firstWhere((element) {
+                                return element.regionID ==
+                                    selectedPlacemark!.regionID;
+                              })
+                            : regions.first,
+                        icon: const Icon(Icons.arrow_downward),
+                        elevation: 16,
+                        style: const TextStyle(color: Colors.deepPurple),
+                        underline: Container(
+                          height: 2,
+                          color: Colors.deepPurpleAccent,
+                        ),
+                        onChanged: (RegionModel? value) {
+                          setState(() {
+                            selectedPlacemark!.regionID = value!.regionID;
+                          });
+                        },
+                        items: regions.map<DropdownMenuItem<RegionModel>>(
+                            (RegionModel value) {
+                          return DropdownMenuItem<RegionModel>(
+                            value: value,
+                            child: Text(value.name!),
+                          );
+                        }).toList(),
                       )),
                   field(
                       "Ziyaret Aralığı (gün)",

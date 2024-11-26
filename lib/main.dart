@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:serhend_map/helpers/https_helper.dart';
-import 'package:serhend_map/map_page.dart';
+import 'package:serhend_map/map/map_page.dart';
 
 void main() {
   HttpOverrides.global = MyHttpsOverrides();
