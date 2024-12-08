@@ -59,41 +59,7 @@ class _MapPageState extends State<MapPage> {
     return Scaffold(
       key: scaffoldKey,
       bottomNavigationBar: selectedPlacemark != null ? getBottomAppBar() : null,
-      floatingActionButton: SpeedDial(
-        animatedIcon: AnimatedIcons.menu_close,
-        direction: SpeedDialDirection.down,
-        switchLabelPosition: true,
-        animatedIconTheme: IconThemeData(size: 22.0),
-        curve: Curves.bounceIn,
-        overlayColor: Colors.black,
-        overlayOpacity: 0.5,
-        backgroundColor: Colors.white,
-        foregroundColor: Colors.black,
-        elevation: 8.0,
-        shape: CircleBorder(),
-        children: [
-          SpeedDialChild(
-            child: Icon(Icons.map_sharp),
-            backgroundColor: Colors.blue.shade200,
-            label: 'Bölgeler',
-            labelStyle: TextStyle(fontSize: 18.0),
-            labelBackgroundColor: Colors.blue.shade200,
-            onTap: () => Navigator.of(context).pushAndRemoveUntil(
-                MaterialPageRoute(builder: (context) => const RegionPage()),
-                (Route<dynamic> route) => true),
-          ),
-          SpeedDialChild(
-            child: Icon(Icons.receipt_long_rounded),
-            backgroundColor: Colors.green.shade200,
-            label: 'Rapor',
-            labelStyle: TextStyle(fontSize: 18.0),
-            labelBackgroundColor: Colors.green.shade200,
-            onTap: () {
-              reportDialog(context);
-            },
-          ),
-        ],
-      ),
+      floatingActionButton: getFloatActionButton(context),
       floatingActionButtonLocation: FloatingActionButtonLocation.startTop,
       body: GoogleMap(
           mapType: MapType.hybrid,
@@ -219,6 +185,7 @@ class _MapPageState extends State<MapPage> {
                       Icon(
                         Icons.check_circle,
                         color: Colors.green,
+                        size: 35,
                       )
                     ],
                   ),
