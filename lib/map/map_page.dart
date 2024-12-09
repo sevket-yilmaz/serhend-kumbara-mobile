@@ -1,17 +1,15 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:serhend_map/data/datasource/models/placemark.dart';
 import 'package:serhend_map/data/datasource/models/region.dart';
 import 'package:serhend_map/data/datasource/placemark_datasource.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:label_marker/label_marker.dart';
 import 'package:serhend_map/data/datasource/region_datasource.dart';
 import 'package:serhend_map/helpers/map_helper.dart';
 import 'package:serhend_map/helpers/progress_indicator.dart';
-import 'package:serhend_map/map/report_popup.dart';
-import 'package:serhend_map/region/regions_page.dart';
+import 'package:serhend_map/map/bottom_sheet_button.dart';
+import 'package:serhend_map/map/report_helper.dart';
 
 import '../helpers/alert_helper.dart';
 
@@ -58,11 +56,10 @@ class _MapPageState extends State<MapPage> {
 
     return Scaffold(
       key: scaffoldKey,
-      bottomNavigationBar: selectedPlacemark != null ? getBottomAppBar() : null,
       floatingActionButton: getFloatActionButton(context),
       floatingActionButtonLocation: FloatingActionButtonLocation.startTop,
       body: GoogleMap(
-          mapType: MapType.hybrid,
+          mapType: MapType.normal,
           scrollGesturesEnabled: true,
           tiltGesturesEnabled: true,
           trafficEnabled: false,
@@ -87,17 +84,12 @@ class _MapPageState extends State<MapPage> {
                 status: 1,
                 visitPeriod: 30);
 
-            await markerList.addLabelMarker(LabelMarker(
-              label: newPlacemarkSelection!.name!,
-              textStyle: TextStyle(fontSize: 33, color: Colors.white),
-              backgroundColor: getBgColor(
-                  today,
-                  newPlacemarkSelection!.lastVisit!,
-                  newPlacemarkSelection!.visitPeriod!),
+            markerList.add(Marker(
               markerId: MarkerId(newPlacemarkSelection!.placemarkID.toString()),
               position: LatLng(newPlacemarkSelection!.latitude ?? 0,
                   newPlacemarkSelection!.longitude ?? 0),
               onTap: () {
+                showModal();
                 setState(() {
                   selectedPlacemark = newPlacemarkSelection;
                 });
@@ -120,15 +112,12 @@ class _MapPageState extends State<MapPage> {
     var apiPlaceProvider = PlacemarkDatasource();
     var placemarks = await apiPlaceProvider.getPlacemarks();
     for (var placemark in placemarks) {
-      await markerList.addLabelMarker(LabelMarker(
-        label: placemark.name!,
-        icon: BitmapDescriptor.defaultMarkerWithHue(BitmapDescriptor.hueBlue),
-        textStyle: TextStyle(fontSize: 33, color: Colors.black),
-        backgroundColor:
-            getBgColor(today, placemark.lastVisit!, placemark.visitPeriod!),
+      markerList.add(Marker(
+        icon: getIconColor(today, placemark.lastVisit!, placemark.visitPeriod!),
         markerId: MarkerId(placemark.placemarkID.toString()),
         position: LatLng(placemark.latitude ?? 0, placemark.longitude ?? 0),
         onTap: () {
+          showModal();
           setState(() {
             selectedPlacemark = placemark;
           });
@@ -160,84 +149,89 @@ class _MapPageState extends State<MapPage> {
     });
   }
 
-  BottomAppBar getBottomAppBar() {
-    return BottomAppBar(
-      shape: const CircularNotchedRectangle(),
-      notchMargin: 10,
-      child: SizedBox(
-        height: 60,
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [
-            Row(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [Text(selectedPlacemark!.name!)],
-            ),
-            Row(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                MaterialButton(
-                  minWidth: 50,
-                  onPressed: () {},
-                  child: const Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      Icon(
-                        Icons.check_circle,
-                        color: Colors.green,
-                        size: 35,
-                      )
-                    ],
-                  ),
-                ),
-                MaterialButton(
-                  minWidth: 50,
-                  onPressed: () {},
-                  child: Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [buildPopupMenuItem()],
-                  ),
-                )
+  void showModal() {
+    showModalBottomSheet<void>(
+      context: context,
+      builder: (BuildContext context) {
+        return SizedBox(
+          height: 200,
+          child: Center(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              mainAxisSize: MainAxisSize.min,
+              children: <Widget>[
+                Container(
+                    width: MediaQuery.of(context).size.width,
+                    height: 150,
+                    padding: const EdgeInsets.all(10),
+                    margin: const EdgeInsets.only(bottom: 10),
+                    decoration: BoxDecoration(
+                        border: Border(
+                            bottom: BorderSide(
+                      width: 1,
+                      color: Colors.black.withAlpha(30),
+                    ))),
+                    child: Column(
+                      children: [
+                        Row(
+                          crossAxisAlignment: CrossAxisAlignment.center,
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Text(
+                              selectedPlacemark!.name!,
+                              style: TextStyle(fontSize: 20),
+                            ),
+                          ],
+                        ),
+                        SizedBox(height: 20),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceAround,
+                          children: [
+                            BottomSheetButton(
+                              icon: const Icon(Icons.edit, size: 20),
+                              text: const Text("Düzenle"),
+                              color: Colors.indigo,
+                              isMin: true,
+                              onPressed: () {
+                                showEditForm();
+                              },
+                            ),
+                            BottomSheetButton(
+                              icon: const Icon(Icons.delete_forever, size: 20),
+                              text: const Text("Sil"),
+                              color: Colors.red,
+                              isMin: true,
+                              onPressed: () {
+                                deletePlacemark();
+                              },
+                            ),
+                            const VerticalDivider(),
+                            BottomSheetButton(
+                              icon: const Icon(
+                                Icons.check_box,
+                                size: 27,
+                                color: Colors.green,
+                              ),
+                              text: const Text("Ziyaret Edildi"),
+                              color: Colors.green,
+                              isMin: false,
+                              onPressed: () async {
+                                await updateLastVisitPlacemark();
+                              },
+                            ),
+                          ],
+                        ),
+                      ],
+                    )),
               ],
-            )
-          ],
-        ),
-      ),
-    );
-  }
-
-  PopupMenuButton buildPopupMenuItem() {
-    return PopupMenuButton(
-        itemBuilder: (ctx) => [
-              PopupMenuItem(
-                child: const Row(
-                  children: [
-                    Icon(
-                      Icons.edit,
-                      color: Colors.black,
-                    ),
-                    Text(" Düzenle"),
-                  ],
-                ),
-                onTap: () {
-                  showEditForm();
-                },
-              ),
-              PopupMenuItem(
-                child: const Row(
-                  children: [
-                    Icon(
-                      Icons.delete_forever,
-                      color: Colors.black,
-                    ),
-                    Text(" Sil"),
-                  ],
-                ),
-                onTap: () {
-                  deletePlacemark();
-                },
-              ),
-            ]);
+            ),
+          ),
+        );
+      },
+    ).whenComplete(() {
+      selectedPlacemark = null;
+      setState(() {});
+    });
   }
 
   deletePlacemark() async {
@@ -261,6 +255,7 @@ class _MapPageState extends State<MapPage> {
           selectedPlacemark = null;
         });
         showSnackbar(context, "Konum silindi.");
+        Navigator.of(context).pop();
         Navigator.of(context).pop();
       },
     );
@@ -400,6 +395,20 @@ class _MapPageState extends State<MapPage> {
       selectedPlacemark = null;
     });
     showSnackbar(context, "Konum kaydedildi.");
+    Navigator.of(context).pop();
+    Navigator.of(context).pop();
+  }
+
+  updateLastVisitPlacemark() async {
+    var placemarkDT = PlacemarkDatasource();
+    selectedPlacemark!.lastVisit = DateTime.now();
+    await placemarkDT.upsert(selectedPlacemark!);
+    setState(() {
+      markerList = {};
+      fillMarkers();
+      selectedPlacemark = null;
+    });
+    showSnackbar(context, "Ziyaret tarihi güncellendi.");
     Navigator.of(context).pop();
   }
 }

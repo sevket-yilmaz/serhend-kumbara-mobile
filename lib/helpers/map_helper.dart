@@ -1,16 +1,9 @@
-import 'package:flutter/material.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-Color getBgColor(DateTime today, DateTime lastVisitDate, int visitPeriod) {
+BitmapDescriptor getIconColor(
+    DateTime today, DateTime lastVisitDate, int visitPeriod) {
   if (today.isBefore(lastVisitDate.add(Duration(days: visitPeriod)))) {
-    return Colors.green;
+    return BitmapDescriptor.defaultMarkerWithHue(BitmapDescriptor.hueGreen);
   }
-  return Colors.yellowAccent;
+  return BitmapDescriptor.defaultMarkerWithHue(BitmapDescriptor.hueYellow);
 }
-// Color getBgColor(MapPinColor color) {
-//   switch (color) {
-//     case MapPinColor.yellow:
-//       return Colors.yellowAccent;
-//     default:
-//       return Colors.green;
-//   }
-// }
