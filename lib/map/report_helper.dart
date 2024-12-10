@@ -15,10 +15,12 @@ Future<void> reportDialog(BuildContext context) {
             SizedBox(height: 30),
             GestureDetector(
                 onTap: () async {
-                  await launchUrl((Uri(
-                      scheme: 'https',
-                      host: 'kumbara-api.nohci.com',
-                      path: 'Report')));
+                  await launchUrl(
+                      (Uri(
+                          scheme: 'https',
+                          host: 'kumbara-api.nohci.com',
+                          path: 'Report')),
+                      mode: LaunchMode.externalApplication);
                   Navigator.pop(context);
                 },
                 child: Row(children: [
