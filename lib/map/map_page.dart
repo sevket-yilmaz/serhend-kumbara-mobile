@@ -142,7 +142,10 @@ class _MapPageState extends State<MapPage> {
         return;
       }
     }
-    _currentPosition = await Geolocator.getCurrentPosition();
+
+    //Android 6 da forceAndroidLocationManager vermeyince çalışmıyor
+    _currentPosition =
+        await Geolocator.getCurrentPosition(forceAndroidLocationManager: true);
     setState(() {
       _center = LatLng(_currentPosition!.latitude, _currentPosition!.longitude);
       loaded = true;
@@ -349,19 +352,19 @@ class _MapPageState extends State<MapPage> {
                         },
                         children: const <int, Widget>{
                           0: Padding(
-                            padding: EdgeInsets.symmetric(horizontal: 20),
+                            padding: EdgeInsets.symmetric(horizontal: 10),
                             child: Text('0'),
                           ),
                           7: Padding(
-                            padding: EdgeInsets.symmetric(horizontal: 20),
+                            padding: EdgeInsets.symmetric(horizontal: 10),
                             child: Text('7'),
                           ),
                           15: Padding(
-                            padding: EdgeInsets.symmetric(horizontal: 20),
+                            padding: EdgeInsets.symmetric(horizontal: 10),
                             child: Text('15'),
                           ),
                           30: Padding(
-                            padding: EdgeInsets.symmetric(horizontal: 20),
+                            padding: EdgeInsets.symmetric(horizontal: 10),
                             child: Text('30'),
                           ),
                         },
