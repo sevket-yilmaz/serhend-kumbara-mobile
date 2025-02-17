@@ -10,7 +10,6 @@ import 'package:serhend_map/helpers/map_helper.dart';
 import 'package:serhend_map/helpers/progress_indicator.dart';
 import 'package:serhend_map/map/bottom_sheet_button.dart';
 import 'package:serhend_map/map/report_helper.dart';
-import 'package:device_info_plus/device_info_plus.dart';
 
 import '../helpers/alert_helper.dart';
 
@@ -144,16 +143,7 @@ class _MapPageState extends State<MapPage> {
       }
     }
 
-    //Android 6 da forceAndroidLocationManager vermeyince çalışmıyor
-    var deviceInfo = DeviceInfoPlugin();
-    var info = await deviceInfo.androidInfo;
-    if (int.parse(info.version.release) > 6) {
-      _currentPosition = await Geolocator.getCurrentPosition();
-    } else {
-      _currentPosition = await Geolocator.getCurrentPosition(
-          forceAndroidLocationManager: true);
-    }
-
+    _currentPosition = await Geolocator.getCurrentPosition();
     setState(() {
       _center = LatLng(_currentPosition!.latitude, _currentPosition!.longitude);
       loaded = true;
