@@ -113,7 +113,8 @@ class _MapPageState extends State<MapPage> {
     var placemarks = await apiPlaceProvider.getPlacemarks();
     for (var placemark in placemarks) {
       markerList.add(Marker(
-        icon: getIconColor(today, placemark.lastVisit!, placemark.visitPeriod!),
+        icon: getIconColor(today, placemark.lastVisit!, placemark.visitPeriod!,
+            placemark.isAuthorized!),
         markerId: MarkerId(placemark.placemarkID.toString()),
         position: LatLng(placemark.latitude ?? 0, placemark.longitude ?? 0),
         onTap: () {
@@ -364,6 +365,16 @@ class _MapPageState extends State<MapPage> {
                             padding: EdgeInsets.symmetric(horizontal: 10),
                             child: Text('30'),
                           ),
+                        },
+                      )),
+                  field(
+                      "Mühürlü mü?",
+                      CupertinoSwitch(
+                        value: selectedPlacemark!.isAuthorized ?? false,
+                        onChanged: (bool value) {
+                          setState(() {
+                            selectedPlacemark!.isAuthorized = value;
+                          });
                         },
                       )),
                   ElevatedButton(

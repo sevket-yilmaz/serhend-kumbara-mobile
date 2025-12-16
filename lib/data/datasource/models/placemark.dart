@@ -5,6 +5,7 @@ class PlacemarkModel {
   double? longitude;
   int? status;
   DateTime? lastVisit;
+  bool? isAuthorized;
   int? visitPeriod;
   int? regionID;
 
@@ -16,6 +17,7 @@ class PlacemarkModel {
     this.status,
     this.lastVisit,
     this.visitPeriod,
+    this.isAuthorized,
     this.regionID,
   });
 
@@ -27,6 +29,7 @@ class PlacemarkModel {
         status: json["status"],
         lastVisit: DateTime.parse(json["lastVisit"]),
         visitPeriod: json["visitPeriod"],
+        isAuthorized: json["isAuthorized"],
         regionID: json["regionID"],
       );
 
@@ -38,6 +41,7 @@ class PlacemarkModel {
         "status": status,
         "lastVisit": lastVisit!.toIso8601String().split('T').first,
         "visitPeriod": visitPeriod,
+        "isAuthorized": isAuthorized,
         "regionID": regionID,
       };
 }
