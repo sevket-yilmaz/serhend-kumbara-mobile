@@ -32,6 +32,7 @@ class _MapPageState extends State<MapPage> {
   PlacemarkModel? selectedPlacemark;
   PlacemarkModel? newPlacemarkSelection;
   List<RegionModel> regions = List.empty();
+  bool showOnlyAuthorized = false;
   var today = DateTime(
       DateTime.now().year, DateTime.now().month, DateTime.now().day, 0, 0, 0);
 
@@ -56,7 +57,17 @@ class _MapPageState extends State<MapPage> {
 
     return Scaffold(
       key: scaffoldKey,
-      floatingActionButton: getFloatActionButton(context),
+      floatingActionButton: getFloatActionButton(
+        context,
+        showOnlyAuthorized: showOnlyAuthorized,
+        onFilterToggle: () {
+          setState(() {
+            showOnlyAuthorized = !showOnlyAuthorized;
+            markerList = {};
+            fillMarkers();
+          });
+        },
+      ),
       floatingActionButtonLocation: FloatingActionButtonLocation.startTop,
       body: GoogleMap(
           mapType: MapType.normal,
@@ -111,7 +122,13 @@ class _MapPageState extends State<MapPage> {
   Future<void> fillMarkers() async {
     var apiPlaceProvider = PlacemarkDatasource();
     var placemarks = await apiPlaceProvider.getPlacemarks();
-    for (var placemark in placemarks) {
+    
+    // Filter placemarks if showOnlyAuthorized is true
+    var filteredPlacemarks = showOnlyAuthorized
+        ? placemarks.where((p) => p.isAuthorized == true).toList()
+        : placemarks;
+    
+    for (var placemark in filteredPlacemarks) {
       markerList.add(Marker(
         icon: getIconColor(today, placemark.lastVisit!, placemark.visitPeriod!,
             placemark.isAuthorized!),

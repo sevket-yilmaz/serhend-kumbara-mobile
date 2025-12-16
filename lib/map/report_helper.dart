@@ -55,7 +55,8 @@ Future<void> reportDialog(BuildContext context) {
   );
 }
 
-getFloatActionButton(BuildContext context) {
+getFloatActionButton(BuildContext context,
+    {bool showOnlyAuthorized = false, VoidCallback? onFilterToggle}) {
   return SpeedDial(
     animatedIcon: AnimatedIcons.menu_close,
     direction: SpeedDialDirection.down,
@@ -88,6 +89,14 @@ getFloatActionButton(BuildContext context) {
         onTap: () {
           reportDialog(context);
         },
+      ),
+      SpeedDialChild(
+        child: Icon(showOnlyAuthorized ? Icons.filter_alt_off : Icons.filter_alt),
+        backgroundColor: showOnlyAuthorized ? Colors.orange.shade200 : Colors.purple.shade200,
+        label: showOnlyAuthorized ? 'Tüm Konumlar' : 'Sadece Mühürlüler',
+        labelStyle: TextStyle(fontSize: 18.0),
+        labelBackgroundColor: showOnlyAuthorized ? Colors.orange.shade200 : Colors.purple.shade200,
+        onTap: onFilterToggle,
       ),
     ],
   );
