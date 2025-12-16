@@ -160,6 +160,7 @@ class _MapPageState extends State<MapPage> {
               position: LatLng(placemark.latitude ?? 0, placemark.longitude ?? 0),
               backgroundColor: getIconColor(today, placemark.lastVisit!,
                   placemark.visitPeriod!, placemark.isAuthorized!),
+              textStyle: const TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
               onTap: () {
                 showModal();
                 setState(() {
