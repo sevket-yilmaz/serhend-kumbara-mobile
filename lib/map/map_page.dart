@@ -35,6 +35,8 @@ class _MapPageState extends State<MapPage> {
   List<RegionModel> regions = List.empty();
   bool showOnlyAuthorized = false;
   bool showNames = false;
+  List<PlacemarkModel>? _cachedPlacemarks; // Cache placemarks to avoid repeated API calls
+  final Map<String, BitmapDescriptor> _iconCache = {}; // Cache marker icons
   var today = DateTime(
       DateTime.now().year, DateTime.now().month, DateTime.now().day, 0, 0, 0);
 
@@ -49,6 +51,12 @@ class _MapPageState extends State<MapPage> {
       RegionDatasource regionDT = RegionDatasource();
       regions = await regionDT.getRegions();
     });
+  }
+
+  @override
+  void dispose() {
+    mapController.dispose();
+    super.dispose();
   }
 
   @override
@@ -130,13 +138,16 @@ class _MapPageState extends State<MapPage> {
   }
 
   Future<void> fillMarkers() async {
-    var apiPlaceProvider = PlacemarkDatasource();
-    var placemarks = await apiPlaceProvider.getPlacemarks();
+    // Use cached placemarks if available, otherwise fetch from API
+    if (_cachedPlacemarks == null) {
+      var apiPlaceProvider = PlacemarkDatasource();
+      _cachedPlacemarks = await apiPlaceProvider.getPlacemarks();
+    }
 
     // Filter placemarks if showOnlyAuthorized is true
     var filteredPlacemarks = showOnlyAuthorized
-        ? placemarks.where((p) => p.isAuthorized == true).toList()
-        : placemarks;
+        ? _cachedPlacemarks!.where((p) => p.isAuthorized == true).toList()
+        : _cachedPlacemarks!;
 
     if (showNames) {
       // Create custom markers with labels in parallel
@@ -162,10 +173,17 @@ class _MapPageState extends State<MapPage> {
     } else {
       // Create regular markers without labels
       markerList.addAll(
-        filteredPlacemarks.map((placemark) => 
-          Marker(
-            icon: getIconBitmap(today, placemark.lastVisit!,
-                placemark.visitPeriod!, placemark.isAuthorized!),
+        filteredPlacemarks.map((placemark) {
+          final iconKey = '${placemark.isAuthorized}_${today.isBefore(placemark.lastVisit!.add(Duration(days: placemark.visitPeriod!)))}';
+          
+          // Use cached icon if available
+          if (!_iconCache.containsKey(iconKey)) {
+            _iconCache[iconKey] = getIconBitmap(today, placemark.lastVisit!,
+                placemark.visitPeriod!, placemark.isAuthorized!);
+          }
+          
+          return Marker(
+            icon: _iconCache[iconKey]!,
             markerId: MarkerId(placemark.placemarkID.toString()),
             position: LatLng(placemark.latitude ?? 0, placemark.longitude ?? 0),
             onTap: () {
@@ -174,8 +192,8 @@ class _MapPageState extends State<MapPage> {
                 selectedPlacemark = placemark;
               });
             },
-          )
-        )
+          );
+        })
       );
     }
     setState(() {});
@@ -234,11 +252,11 @@ class _MapPageState extends State<MapPage> {
                           children: [
                             Text(
                               selectedPlacemark!.name!,
-                              style: TextStyle(fontSize: 20),
+                              style: const TextStyle(fontSize: 20),
                             ),
                           ],
                         ),
-                        SizedBox(height: 20),
+                        const SizedBox(height: 20),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.spaceAround,
                           children: [
@@ -301,6 +319,7 @@ class _MapPageState extends State<MapPage> {
       child: const Text("Sil"),
       onPressed: () async {
         await placemarkDT.delete(selectedPlacemark!.placemarkID!);
+        _cachedPlacemarks = null; // Invalidate cache
         setState(() {
           markerList.remove(markerList
               .where((element) =>
@@ -341,7 +360,7 @@ class _MapPageState extends State<MapPage> {
                     borderSide: BorderSide(color: Colors.yellow))),
             child: field,
           ),
-          SizedBox(height: 20.0),
+          const SizedBox(height: 20.0),
         ],
       );
     }
@@ -453,6 +472,7 @@ class _MapPageState extends State<MapPage> {
   savePlacemark() async {
     var placemarkDT = PlacemarkDatasource();
     await placemarkDT.upsert(selectedPlacemark!);
+    _cachedPlacemarks = null; // Invalidate cache
     setState(() {
       markerList = {};
       fillMarkers();
@@ -467,6 +487,7 @@ class _MapPageState extends State<MapPage> {
     var placemarkDT = PlacemarkDatasource();
     selectedPlacemark!.lastVisit = DateTime.now();
     await placemarkDT.upsert(selectedPlacemark!);
+    _cachedPlacemarks = null; // Invalidate cache
     setState(() {
       markerList = {};
       fillMarkers();
