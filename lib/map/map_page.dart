@@ -10,6 +10,7 @@ import 'package:serhend_map/helpers/map_helper.dart';
 import 'package:serhend_map/helpers/progress_indicator.dart';
 import 'package:serhend_map/map/bottom_sheet_button.dart';
 import 'package:serhend_map/map/report_helper.dart';
+import 'package:label_marker/label_marker.dart';
 
 import '../helpers/alert_helper.dart';
 
@@ -33,6 +34,7 @@ class _MapPageState extends State<MapPage> {
   PlacemarkModel? newPlacemarkSelection;
   List<RegionModel> regions = List.empty();
   bool showOnlyAuthorized = false;
+  bool showNames = false;
   var today = DateTime(
       DateTime.now().year, DateTime.now().month, DateTime.now().day, 0, 0, 0);
 
@@ -60,9 +62,17 @@ class _MapPageState extends State<MapPage> {
       floatingActionButton: getFloatActionButton(
         context,
         showOnlyAuthorized: showOnlyAuthorized,
+        showNames: showNames,
         onFilterToggle: () {
           setState(() {
             showOnlyAuthorized = !showOnlyAuthorized;
+            markerList = {};
+            fillMarkers();
+          });
+        },
+        onNamesToggle: () {
+          setState(() {
+            showNames = !showNames;
             markerList = {};
             fillMarkers();
           });
@@ -122,25 +132,51 @@ class _MapPageState extends State<MapPage> {
   Future<void> fillMarkers() async {
     var apiPlaceProvider = PlacemarkDatasource();
     var placemarks = await apiPlaceProvider.getPlacemarks();
-    
+
     // Filter placemarks if showOnlyAuthorized is true
     var filteredPlacemarks = showOnlyAuthorized
         ? placemarks.where((p) => p.isAuthorized == true).toList()
         : placemarks;
-    
-    for (var placemark in filteredPlacemarks) {
-      markerList.add(Marker(
-        icon: getIconColor(today, placemark.lastVisit!, placemark.visitPeriod!,
-            placemark.isAuthorized!),
-        markerId: MarkerId(placemark.placemarkID.toString()),
-        position: LatLng(placemark.latitude ?? 0, placemark.longitude ?? 0),
-        onTap: () {
-          showModal();
-          setState(() {
-            selectedPlacemark = placemark;
-          });
-        },
-      ));
+
+    if (showNames) {
+      // Create custom markers with labels in parallel
+      await Future.wait(
+        filteredPlacemarks.map((placemark) => 
+          markerList.addLabelMarker(
+            LabelMarker(
+              label: placemark.name ?? '',
+              markerId: MarkerId(placemark.placemarkID.toString()),
+              position: LatLng(placemark.latitude ?? 0, placemark.longitude ?? 0),
+              backgroundColor: getIconColor(today, placemark.lastVisit!,
+                  placemark.visitPeriod!, placemark.isAuthorized!),
+              onTap: () {
+                showModal();
+                setState(() {
+                  selectedPlacemark = placemark;
+                });
+              },
+            ),
+          )
+        )
+      );
+    } else {
+      // Create regular markers without labels
+      markerList.addAll(
+        filteredPlacemarks.map((placemark) => 
+          Marker(
+            icon: getIconBitmap(today, placemark.lastVisit!,
+                placemark.visitPeriod!, placemark.isAuthorized!),
+            markerId: MarkerId(placemark.placemarkID.toString()),
+            position: LatLng(placemark.latitude ?? 0, placemark.longitude ?? 0),
+            onTap: () {
+              showModal();
+              setState(() {
+                selectedPlacemark = placemark;
+              });
+            },
+          )
+        )
+      );
     }
     setState(() {});
   }

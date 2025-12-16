@@ -134,7 +134,10 @@ Future<void> reportDialog(BuildContext context) {
 }
 
 getFloatActionButton(BuildContext context,
-    {bool showOnlyAuthorized = false, VoidCallback? onFilterToggle}) {
+    {bool showOnlyAuthorized = false, 
+     bool showNames = false,
+     VoidCallback? onFilterToggle,
+     VoidCallback? onNamesToggle}) {
   return SpeedDial(
     animatedIcon: AnimatedIcons.menu_close,
     direction: SpeedDialDirection.down,
@@ -185,6 +188,14 @@ getFloatActionButton(BuildContext context,
         labelStyle: TextStyle(fontSize: 18.0),
         labelBackgroundColor: showOnlyAuthorized ? Colors.orange.shade200 : Colors.purple.shade200,
         onTap: onFilterToggle,
+      ),
+      SpeedDialChild(
+        child: Icon(showNames ? Icons.label_off : Icons.label),
+        backgroundColor: showNames ? Colors.red.shade200 : Colors.teal.shade200,
+        label: showNames ? 'İsimleri Gizle' : 'İsimleri Göster',
+        labelStyle: TextStyle(fontSize: 18.0),
+        labelBackgroundColor: showNames ? Colors.red.shade200 : Colors.teal.shade200,
+        onTap: onNamesToggle,
       ),
     ],
   );
